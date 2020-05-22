@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ambrequemin.com" resolutions="1x" timestamp="1590147500575">
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ambrequemin.com" resolutions="1x" timestamp="1590147656501">
   <folder name="css">
     <file name="site_global.css" crc="3840674862"/>
     <file name="master_a-gabarit.css" crc="3824530138" ref="indexx:irma-posters:l-inventaire-de-l-invention:devoir-de-mémoire:index:silkscreen-on-glass:about:bezalel:eta-19:mem.que:playurban:if-other-please-specify:irma:la-revue-arts-et-métiers-graphiques"/>
@@ -1202,22 +1202,22 @@
     <file name="ambre020 copie-crop-u9092.jpg" crc="3788637807" seo="true" ref="indexx">
       <caption webpage="indexx" alt=""/>
     </file>
-    <file name="ambre022 copie-u9100.png" crc="536099250" ref="indexx"/>
-    <file name="ambre026 copie-u9096.png" crc="3965790429" ref="indexx"/>
+    <file name="ambre022 copie-u9100.png" crc="3844586507" ref="indexx"/>
+    <file name="ambre026 copie-u9096.png" crc="4233068792" ref="indexx"/>
     <file name="ambre019 copie-crop-u9106.jpg" crc="3994591807" seo="true" ref="indexx">
       <caption webpage="indexx" alt=""/>
     </file>
     <file name="ambre023 copie-crop-u9104.jpg" crc="256151630" seo="true" ref="indexx">
       <caption webpage="indexx" alt=""/>
     </file>
-    <file name="ambre024 copie-u9108.png" crc="234278590" ref="indexx"/>
+    <file name="ambre024 copie-u9108.png" crc="3787040303" ref="indexx"/>
     <file name="ambre025 copie-crop-u9102.jpg" crc="4161091319" seo="true" ref="indexx">
       <caption webpage="indexx" alt=""/>
     </file>
     <file name="ambre019 copie-crop-u9378.jpg" crc="3798869890" seo="true" ref="indexx">
       <caption webpage="indexx" alt=""/>
     </file>
-    <file name="ambre032 copie-u9405.png" crc="3842442734" ref="indexx"/>
+    <file name="ambre032 copie-u9405.png" crc="84302120" ref="indexx"/>
     <file name="a7-u9505.png" crc="187796458" ref="l-inventaire-de-l-invention"/>
     <file name="4copie-crop-u9497.jpg" crc="3787664607" seo="true" ref="l-inventaire-de-l-invention">
       <caption webpage="l-inventaire-de-l-invention" alt=""/>
@@ -1243,7 +1243,7 @@
     <file name="grandes affiches2.jpg" crc="3942947017" seo="true" ref="irma-posters">
       <caption webpage="irma-posters" alt=""/>
     </file>
-    <file name="favicon.ico" crc="4212672545" ref="index"/>
+    <file name="favicon.ico" crc="3832286770" ref="index"/>
   </folder>
   <folder name="phone">
     <folder name="css">
@@ -1295,18 +1295,18 @@
     <file name="index.html" crc="4062060423" seo="true" mt="1590057012447" redirect="true"/>
     <file name="about.html" crc="4066109994" seo="true" mt="1590056848688" redirect="true"/>
   </folder>
-  <file name="index.html" crc="3880451224" seo="true" mt="1590147443671" redirect="true"/>
-  <file name="playurban.html" crc="4288524582" seo="true" mt="1590147443671" redirect="true"/>
-  <file name="about.html" crc="3814698096" seo="true" mt="1590147443671" redirect="true"/>
-  <file name="irma.html" crc="67860894" seo="true" mt="1590147443671" redirect="true"/>
-  <file name="eta-19.html" crc="194445062" seo="true" mt="1590147443671" redirect="true"/>
-  <file name="mem.que.html" crc="3783512864" seo="true" mt="1590147443671" redirect="true"/>
-  <file name="la-revue-arts-et-métiers-graphiques.html" crc="4004192007" seo="true" mt="1590147443671" redirect="true"/>
-  <file name="if-other-please-specify.html" crc="3940385775" seo="true" mt="1590147443671" redirect="true"/>
-  <file name="devoir-de-mémoire.html" crc="3978416278" seo="true" mt="1590147443671" redirect="true"/>
-  <file name="silkscreen-on-glass.html" crc="3892673611" seo="true" mt="1590147443671" redirect="true"/>
-  <file name="bezalel.html" crc="501938018" seo="true" mt="1590147443671" redirect="true"/>
-  <file name="indexx.html" crc="155662644" seo="true" mt="1590147443671" redirect="true"/>
-  <file name="l-inventaire-de-l-invention.html" crc="4037114054" seo="true" mt="1590147443671" redirect="true"/>
-  <file name="irma-posters.html" crc="3819000601" seo="true" mt="1590147443671" redirect="true"/>
+  <file name="index.html" crc="4222042796" seo="true" mt="1590147620790" redirect="true"/>
+  <file name="playurban.html" crc="3775887091" seo="true" mt="1590147620790" redirect="true"/>
+  <file name="about.html" crc="131151306" seo="true" mt="1590147620790" redirect="true"/>
+  <file name="irma.html" crc="26494767" seo="true" mt="1590147620790" redirect="true"/>
+  <file name="eta-19.html" crc="139239361" seo="true" mt="1590147620790" redirect="true"/>
+  <file name="mem.que.html" crc="388226701" seo="true" mt="1590147620790" redirect="true"/>
+  <file name="la-revue-arts-et-métiers-graphiques.html" crc="512112372" seo="true" mt="1590147620790" redirect="true"/>
+  <file name="if-other-please-specify.html" crc="331885201" seo="true" mt="1590147620790" redirect="true"/>
+  <file name="devoir-de-mémoire.html" crc="3867694104" seo="true" mt="1590147620790" redirect="true"/>
+  <file name="silkscreen-on-glass.html" crc="4069957827" seo="true" mt="1590147620790" redirect="true"/>
+  <file name="bezalel.html" crc="318361017" seo="true" mt="1590147620790" redirect="true"/>
+  <file name="indexx.html" crc="3854848909" seo="true" mt="1590147620790" redirect="true"/>
+  <file name="l-inventaire-de-l-invention.html" crc="65128470" seo="true" mt="1590147620790" redirect="true"/>
+  <file name="irma-posters.html" crc="23193371" seo="true" mt="1590147620790" redirect="true"/>
 </manifest>
