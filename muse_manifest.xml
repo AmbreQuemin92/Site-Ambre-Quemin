@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ambrequemin.com" resolutions="1x" timestamp="1590151216166">
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ambrequemin.com" resolutions="1x" timestamp="1590151387995">
   <folder name="css">
     <file name="site_global.css" crc="3840674862"/>
     <file name="master_a-gabarit.css" crc="3824530138" ref="indexx:irma-posters:l-inventaire-de-l-invention:devoir-de-mémoire:index:silkscreen-on-glass:about:bezalel:eta-19:mem.que:irma:la-revue-arts-et-métiers-graphiques:if-other,-please-specify:play--urban"/>
@@ -884,7 +884,7 @@
     <file name="édition_1_montfortquemin copie_web.jpg" crc="4132521946" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="édition_1_montfortquemin _web.jpg" crc="173487691" seo="true" ref="index:irma">
+    <file name="édition_1_montfortquemin _web.jpg" crc="173487691" ref="index:irma">
       <caption webpage="index" alt=""/>
       <caption webpage="irma" alt=""/>
     </file>
@@ -1307,7 +1307,7 @@
     <file name="index.html" crc="314466373" seo="true" mt="1590150699400" redirect="true"/>
     <file name="about.html" crc="4066109994" seo="true" mt="1590056848688" redirect="true"/>
   </folder>
-  <file name="index.html" crc="3899139355" seo="true" mt="1590151179639" redirect="true"/>
+  <file name="index.html" crc="216652975" seo="true" mt="1590151366026" redirect="true"/>
   <file name="about.html" crc="4170872046" seo="true" mt="1590150727720" redirect="true"/>
   <file name="irma.html" crc="510031261" seo="true" mt="1590150637616" redirect="true"/>
   <file name="eta-19.html" crc="500222954" seo="true" mt="1590150298720" redirect="true"/>

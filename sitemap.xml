@@ -6,9 +6,6 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://ambrequemin.com/phone/index.html"/>
-    <image:image>
-      <image:loc>http://ambrequemin.com/images/%C3%A9dition_1_montfortquemin%20_web.jpg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://ambrequemin.com/phone/irma-poster.html</loc>
@@ -48,9 +45,6 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://ambrequemin.com/phone/irma.html"/>
-    <image:image>
-      <image:loc>http://ambrequemin.com/images/%C3%A9dition_1_montfortquemin%20_web.jpg</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://ambrequemin.com/images/3%20irma%20copie-crop-u5796.png</image:loc>
     </image:image>
