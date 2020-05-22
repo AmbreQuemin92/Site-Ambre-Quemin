@@ -1,308 +1,242 @@
-<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ambrequemin.com" resolutions="1x" timestamp="1590057164460">
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ambrequemin.com" resolutions="1x" timestamp="1590142304734">
   <folder name="css">
     <file name="site_global.css" crc="3840674862"/>
-    <file name="master_a-gabarit.css" crc="3824530138" ref="indexx:l-inventaire-de-l-invention:bezalel:index:irma-posters:la-revue-arts-et-métiers-graphiques:devoir-de-mémoire:silkscreen-on-glass:about:eta-19:mem.que:playurban:irma:if-other-please-specify"/>
-    <file name="nomq_preview_master_a-gabarit.css" crc="3824530138" ref="indexx:l-inventaire-de-l-invention:bezalel:index:irma-posters:la-revue-arts-et-métiers-graphiques:devoir-de-mémoire:silkscreen-on-glass:about:eta-19:mem.que:playurban:irma:if-other-please-specify"/>
+    <file name="master_a-gabarit.css" crc="3824530138" ref="indexx:irma-posters:l-inventaire-de-l-invention:devoir-de-mémoire:index:silkscreen-on-glass:about:bezalel:eta-19:mem.que:playurban:if-other-please-specify:irma:la-revue-arts-et-métiers-graphiques"/>
+    <file name="nomq_preview_master_a-gabarit.css" crc="3824530138" ref="indexx:irma-posters:l-inventaire-de-l-invention:devoir-de-mémoire:index:silkscreen-on-glass:about:bezalel:eta-19:mem.que:playurban:if-other-please-specify:irma:la-revue-arts-et-métiers-graphiques"/>
     <file name="indexx.css" crc="142995976" ref="indexx"/>
-    <file name="l-inventaire-de-l-invention.css" crc="3977153573" ref="l-inventaire-de-l-invention"/>
-    <file name="bezalel.css" crc="507428390" ref="bezalel"/>
-    <file name="index.css" crc="3816861046" ref="index"/>
     <file name="irma-posters.css" crc="4176830886" ref="irma-posters"/>
-    <file name="la-revue-arts-et-m_tiers-graphiques.css" crc="62549929" ref="la-revue-arts-et-métiers-graphiques"/>
-    <file name="iefonts_la-revue-arts-et-m_tiers-graphiques.css" crc="4098666669" ref="la-revue-arts-et-métiers-graphiques"/>
+    <file name="l-inventaire-de-l-invention.css" crc="3977153573" ref="l-inventaire-de-l-invention"/>
     <file name="devoir-de-m_moire.css" crc="396697387" ref="devoir-de-mémoire"/>
+    <file name="index.css" crc="202866880" ref="index"/>
+    <file name="nomq_index.css" crc="499105981" ref="index"/>
+    <file name="iefonts_index.css" crc="3929905688" ref="index"/>
     <file name="silkscreen-on-glass.css" crc="3798824269" ref="silkscreen-on-glass"/>
     <file name="about.css" crc="472067181" ref="about"/>
     <file name="nomq_about.css" crc="218199742" ref="about"/>
     <file name="iefonts_about.css" crc="3929905688" ref="about"/>
+    <file name="bezalel.css" crc="507428390" ref="bezalel"/>
     <file name="eta-19.css" crc="72978768" ref="eta-19"/>
     <file name="mem_que.css" crc="367053826" ref="mem.que"/>
     <file name="playurban.css" crc="184276416" ref="playurban"/>
     <file name="iefonts_playurban.css" crc="269149040" ref="playurban"/>
-    <file name="irma.css" crc="3792135160" ref="irma"/>
-    <file name="nomq_index.css" crc="219810750" ref="index"/>
-    <file name="iefonts_index.css" crc="3929905688" ref="index"/>
     <file name="if-other-please-specify.css" crc="4101308135" ref="if-other-please-specify"/>
+    <file name="irma.css" crc="3792135160" ref="irma"/>
+    <file name="la-revue-arts-et-m_tiers-graphiques.css" crc="62549929" ref="la-revue-arts-et-métiers-graphiques"/>
+    <file name="iefonts_la-revue-arts-et-m_tiers-graphiques.css" crc="4098666669" ref="la-revue-arts-et-métiers-graphiques"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>bezalel:phone>indexx:phone>l-inventaire-de-l-invention:phone>irma-poster:index:bezalel:indexx:l-inventaire-de-l-invention:phone>playurban:phone>la-revue-arts-et-métiers-graphiques:phone>mem.que:phone>eta-19:phone>devoir-de-mémoire:phone>irma:phone>silkscreen-on-glass:phone>about:playurban:about:irma:eta-19:mem.que:la-revue-arts-et-métiers-graphiques:devoir-de-mémoire:silkscreen-on-glass:irma-posters:phone>if-other,-please-specify:if-other-please-specify"/>
-    <file name="museutils.js" crc="4216313831" ref="phone>index:phone>bezalel:phone>indexx:phone>l-inventaire-de-l-invention:phone>irma-poster:index:bezalel:indexx:l-inventaire-de-l-invention:phone>playurban:phone>la-revue-arts-et-métiers-graphiques:phone>mem.que:phone>eta-19:phone>devoir-de-mémoire:phone>irma:phone>silkscreen-on-glass:phone>about:playurban:about:irma:eta-19:mem.que:la-revue-arts-et-métiers-graphiques:devoir-de-mémoire:silkscreen-on-glass:irma-posters:phone>if-other,-please-specify:if-other-please-specify"/>
-    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>bezalel:phone>indexx:phone>l-inventaire-de-l-invention:phone>irma-poster:index:bezalel:indexx:l-inventaire-de-l-invention:phone>playurban:phone>la-revue-arts-et-métiers-graphiques:phone>mem.que:phone>eta-19:phone>devoir-de-mémoire:phone>irma:phone>silkscreen-on-glass:phone>about:playurban:about:irma:eta-19:mem.que:la-revue-arts-et-métiers-graphiques:devoir-de-mémoire:silkscreen-on-glass:irma-posters:phone>if-other,-please-specify:if-other-please-specify"/>
-    <file name="museconfig.js" crc="474374037" ref="phone>index:phone>bezalel:phone>indexx:phone>l-inventaire-de-l-invention:phone>irma-poster:index:bezalel:indexx:l-inventaire-de-l-invention:phone>playurban:phone>la-revue-arts-et-métiers-graphiques:phone>mem.que:phone>eta-19:phone>devoir-de-mémoire:phone>irma:phone>silkscreen-on-glass:phone>about:playurban:about:irma:eta-19:mem.que:la-revue-arts-et-métiers-graphiques:devoir-de-mémoire:silkscreen-on-glass:irma-posters:phone>if-other,-please-specify:if-other-please-specify"/>
-    <file name="jquery.watch.js" crc="460461809" ref="phone>index:phone>bezalel:phone>indexx:phone>l-inventaire-de-l-invention:phone>irma-poster:phone>playurban:phone>la-revue-arts-et-métiers-graphiques:phone>mem.que:phone>eta-19:phone>devoir-de-mémoire:phone>irma:phone>silkscreen-on-glass:phone>about:phone>if-other,-please-specify"/>
-    <file name="jquery.museresponsive.js" crc="4055310269" ref="phone>index:phone>bezalel:phone>indexx:phone>l-inventaire-de-l-invention:phone>irma-poster:phone>playurban:phone>la-revue-arts-et-métiers-graphiques:phone>mem.que:phone>eta-19:phone>devoir-de-mémoire:phone>irma:phone>silkscreen-on-glass:phone>about:about:phone>if-other,-please-specify:index"/>
-    <file name="require.js" crc="3951022091" ref="phone>index:phone>bezalel:phone>indexx:phone>l-inventaire-de-l-invention:phone>irma-poster:index:bezalel:indexx:l-inventaire-de-l-invention:phone>playurban:phone>la-revue-arts-et-métiers-graphiques:phone>mem.que:phone>eta-19:phone>devoir-de-mémoire:phone>irma:phone>silkscreen-on-glass:phone>about:playurban:about:irma:eta-19:mem.que:la-revue-arts-et-métiers-graphiques:devoir-de-mémoire:silkscreen-on-glass:irma-posters:phone>if-other,-please-specify:if-other-please-specify"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>if-other,-please-specify:phone>playurban:phone>la-revue-arts-et-métiers-graphiques:phone>mem.que:phone>bezalel:phone>eta-19:phone>devoir-de-mémoire:phone>irma:phone>silkscreen-on-glass:phone>indexx:phone>l-inventaire-de-l-invention:phone>irma-poster:phone>index:phone>about:index:playurban:about:irma:eta-19:mem.que:la-revue-arts-et-métiers-graphiques:if-other-please-specify:devoir-de-mémoire:silkscreen-on-glass:bezalel:indexx:l-inventaire-de-l-invention:irma-posters"/>
+    <file name="museutils.js" crc="4216313831" ref="phone>if-other,-please-specify:phone>playurban:phone>la-revue-arts-et-métiers-graphiques:phone>mem.que:phone>bezalel:phone>eta-19:phone>devoir-de-mémoire:phone>irma:phone>silkscreen-on-glass:phone>indexx:phone>l-inventaire-de-l-invention:phone>irma-poster:phone>index:phone>about:index:playurban:about:irma:eta-19:mem.que:la-revue-arts-et-métiers-graphiques:if-other-please-specify:devoir-de-mémoire:silkscreen-on-glass:bezalel:indexx:l-inventaire-de-l-invention:irma-posters"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>if-other,-please-specify:phone>playurban:phone>la-revue-arts-et-métiers-graphiques:phone>mem.que:phone>bezalel:phone>eta-19:phone>devoir-de-mémoire:phone>irma:phone>silkscreen-on-glass:phone>indexx:phone>l-inventaire-de-l-invention:phone>irma-poster:phone>index:phone>about:index:playurban:about:irma:eta-19:mem.que:la-revue-arts-et-métiers-graphiques:if-other-please-specify:devoir-de-mémoire:silkscreen-on-glass:bezalel:indexx:l-inventaire-de-l-invention:irma-posters"/>
+    <file name="museconfig.js" crc="474374037" ref="phone>if-other,-please-specify:phone>playurban:phone>la-revue-arts-et-métiers-graphiques:phone>mem.que:phone>bezalel:phone>eta-19:phone>devoir-de-mémoire:phone>irma:phone>silkscreen-on-glass:phone>indexx:phone>l-inventaire-de-l-invention:phone>irma-poster:phone>index:phone>about:index:playurban:about:irma:eta-19:mem.que:la-revue-arts-et-métiers-graphiques:if-other-please-specify:devoir-de-mémoire:silkscreen-on-glass:bezalel:indexx:l-inventaire-de-l-invention:irma-posters"/>
+    <file name="jquery.watch.js" crc="460461809" ref="phone>if-other,-please-specify:phone>playurban:phone>la-revue-arts-et-métiers-graphiques:phone>mem.que:phone>bezalel:phone>eta-19:phone>devoir-de-mémoire:phone>irma:phone>silkscreen-on-glass:phone>indexx:phone>l-inventaire-de-l-invention:phone>irma-poster:phone>index:phone>about"/>
+    <file name="jquery.museresponsive.js" crc="4055310269" ref="phone>if-other,-please-specify:phone>playurban:phone>la-revue-arts-et-métiers-graphiques:phone>mem.que:phone>bezalel:phone>eta-19:phone>devoir-de-mémoire:phone>irma:phone>silkscreen-on-glass:phone>indexx:phone>l-inventaire-de-l-invention:phone>irma-poster:phone>index:phone>about:index:about"/>
+    <file name="require.js" crc="3951022091" ref="phone>if-other,-please-specify:phone>playurban:phone>la-revue-arts-et-métiers-graphiques:phone>mem.que:phone>bezalel:phone>eta-19:phone>devoir-de-mémoire:phone>irma:phone>silkscreen-on-glass:phone>indexx:phone>l-inventaire-de-l-invention:phone>irma-poster:phone>index:phone>about:index:playurban:about:irma:eta-19:mem.que:la-revue-arts-et-métiers-graphiques:if-other-please-specify:devoir-de-mémoire:silkscreen-on-glass:bezalel:indexx:l-inventaire-de-l-invention:irma-posters"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="phone>index:index"/>
-    <file name="webpro.js" crc="4143865194" ref="bezalel:indexx:l-inventaire-de-l-invention:playurban:irma:eta-19:mem.que:la-revue-arts-et-métiers-graphiques:devoir-de-mémoire:silkscreen-on-glass:irma-posters:if-other-please-specify"/>
-    <file name="musewpslideshow.js" crc="3781122836" ref="bezalel:indexx:l-inventaire-de-l-invention:playurban:irma:eta-19:mem.que:la-revue-arts-et-métiers-graphiques:devoir-de-mémoire:silkscreen-on-glass:irma-posters:if-other-please-specify"/>
-    <file name="jquery.museoverlay.js" crc="4030747646" ref="bezalel:indexx:l-inventaire-de-l-invention:playurban:irma:eta-19:mem.que:la-revue-arts-et-métiers-graphiques:devoir-de-mémoire:silkscreen-on-glass:irma-posters:if-other-please-specify"/>
-    <file name="touchswipe.js" crc="4200445185" ref="bezalel:indexx:l-inventaire-de-l-invention:playurban:irma:eta-19:mem.que:la-revue-arts-et-métiers-graphiques:devoir-de-mémoire:silkscreen-on-glass:irma-posters:if-other-please-specify"/>
+    <file name="webpro.js" crc="4143865194" ref="playurban:irma:eta-19:mem.que:la-revue-arts-et-métiers-graphiques:if-other-please-specify:devoir-de-mémoire:silkscreen-on-glass:bezalel:indexx:l-inventaire-de-l-invention:irma-posters"/>
+    <file name="musewpslideshow.js" crc="3781122836" ref="playurban:irma:eta-19:mem.que:la-revue-arts-et-métiers-graphiques:if-other-please-specify:devoir-de-mémoire:silkscreen-on-glass:bezalel:indexx:l-inventaire-de-l-invention:irma-posters"/>
+    <file name="jquery.museoverlay.js" crc="4030747646" ref="playurban:irma:eta-19:mem.que:la-revue-arts-et-métiers-graphiques:if-other-please-specify:devoir-de-mémoire:silkscreen-on-glass:bezalel:indexx:l-inventaire-de-l-invention:irma-posters"/>
+    <file name="touchswipe.js" crc="4200445185" ref="playurban:irma:eta-19:mem.que:la-revue-arts-et-métiers-graphiques:if-other-please-specify:devoir-de-mémoire:silkscreen-on-glass:bezalel:indexx:l-inventaire-de-l-invention:irma-posters"/>
   </folder>
   <folder name="images">
     <file name="affiche okbook copie2394x576.jpg" crc="4024891716" seo="true" ref="phone>if-other,-please-specify">
-      <caption webpage="index" alt=""/>
       <caption webpage="if-other,-please-specify" alt=""/>
     </file>
     <file name="ambre013 copie556x394.jpg" crc="4269325400" seo="true" ref="phone>if-other,-please-specify">
-      <caption webpage="index" alt=""/>
       <caption webpage="if-other,-please-specify" alt=""/>
     </file>
     <file name="img_20181010_110100_178394x394.jpg" crc="4128805578" seo="true" ref="phone>if-other,-please-specify">
-      <caption webpage="index" alt=""/>
       <caption webpage="if-other,-please-specify" alt=""/>
     </file>
     <file name="affiche okbook copie2360x527.jpg" crc="488367469" seo="true" ref="phone>if-other,-please-specify">
-      <caption webpage="index" alt=""/>
       <caption webpage="if-other,-please-specify" alt=""/>
     </file>
     <file name="ambre013 copie507x360.jpg" crc="5225092" seo="true" ref="phone>if-other,-please-specify">
-      <caption webpage="index" alt=""/>
       <caption webpage="if-other,-please-specify" alt=""/>
     </file>
     <file name="img_20181010_110100_178360x360.jpg" crc="300711191" seo="true" ref="phone>if-other,-please-specify">
-      <caption webpage="index" alt=""/>
       <caption webpage="if-other,-please-specify" alt=""/>
     </file>
     <file name="affiche okbook copie2302x441.jpg" crc="185739985" seo="true" ref="phone>if-other,-please-specify">
-      <caption webpage="index" alt=""/>
       <caption webpage="if-other,-please-specify" alt=""/>
     </file>
     <file name="ambre013 copie426x302.jpg" crc="256359383" seo="true" ref="phone>if-other,-please-specify">
-      <caption webpage="index" alt=""/>
       <caption webpage="if-other,-please-specify" alt=""/>
     </file>
     <file name="img_20181010_110100_178303x303.jpg" crc="4125693395" seo="true" ref="phone>if-other,-please-specify">
-      <caption webpage="index" alt=""/>
       <caption webpage="if-other,-please-specify" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="phone>index:phone>bezalel:phone>indexx:phone>l-inventaire-de-l-invention:phone>irma-poster:index:bezalel:indexx:l-inventaire-de-l-invention:phone>playurban:phone>la-revue-arts-et-métiers-graphiques:phone>mem.que:phone>eta-19:phone>devoir-de-mémoire:phone>irma:phone>silkscreen-on-glass:phone>about:playurban:about:irma:eta-19:mem.que:la-revue-arts-et-métiers-graphiques:devoir-de-mémoire:silkscreen-on-glass:irma-posters:phone>if-other,-please-specify:if-other-please-specify"/>
+    <file name="blank.gif" crc="4208392903" ref="phone>if-other,-please-specify:phone>playurban:phone>la-revue-arts-et-métiers-graphiques:phone>mem.que:phone>bezalel:phone>eta-19:phone>devoir-de-mémoire:phone>irma:phone>silkscreen-on-glass:phone>indexx:phone>l-inventaire-de-l-invention:phone>irma-poster:phone>index:phone>about:index:playurban:about:irma:eta-19:mem.que:la-revue-arts-et-métiers-graphiques:if-other-please-specify:devoir-de-mémoire:silkscreen-on-glass:bezalel:indexx:l-inventaire-de-l-invention:irma-posters"/>
     <file name="ambre016 copie-crop-u16167.jpg" crc="268141230" seo="true" ref="phone>playurban">
-      <caption webpage="6-playurban" alt=""/>
       <caption webpage="playurban" alt=""/>
     </file>
     <file name="ambre018 copie-crop-u16227.jpg" crc="4094923789" seo="true" ref="phone>playurban">
-      <caption webpage="6-playurban" alt=""/>
       <caption webpage="playurban" alt=""/>
     </file>
     <file name="ambre006 copie copie607x430.jpg" crc="446608467" seo="true" ref="phone>playurban">
-      <caption webpage="6-playurban" alt=""/>
       <caption webpage="playurban" alt=""/>
     </file>
     <file name="ambre007 copie copie608x431.jpg" crc="532558346" seo="true" ref="phone>playurban">
-      <caption webpage="6-playurban" alt=""/>
       <caption webpage="playurban" alt=""/>
     </file>
-    <file name="ambre008 copie copie.jpg" crc="41048015" seo="true" ref="phone>playurban:playurban">
-      <caption webpage="6-playurban" alt=""/>
+    <file name="ambre008 copie copie.jpg" crc="43369829" seo="true" ref="phone>playurban">
       <caption webpage="playurban" alt=""/>
     </file>
     <file name="ambre009 copie copie.jpg" crc="3884721857" seo="true" ref="phone>playurban">
-      <caption webpage="6-playurban" alt=""/>
       <caption webpage="playurban" alt=""/>
     </file>
-    <file name="ambre011 copie2.jpg" crc="3921072716" seo="true" ref="phone>playurban:playurban">
-      <caption webpage="6-playurban" alt=""/>
+    <file name="ambre011 copie2.jpg" crc="421811031" seo="true" ref="phone>playurban">
       <caption webpage="playurban" alt=""/>
     </file>
     <file name="ambre012 copie copie607x430.jpg" crc="3888160396" seo="true" ref="phone>playurban">
-      <caption webpage="6-playurban" alt=""/>
       <caption webpage="playurban" alt=""/>
     </file>
     <file name="ambre016 copie-crop-u161672.jpg" crc="4038450226" seo="true" ref="phone>playurban">
-      <caption webpage="6-playurban" alt=""/>
       <caption webpage="playurban" alt=""/>
     </file>
     <file name="ambre018 copie-crop-u162272.jpg" crc="145479532" seo="true" ref="phone>playurban">
-      <caption webpage="6-playurban" alt=""/>
       <caption webpage="playurban" alt=""/>
     </file>
     <file name="ambre006 copie copie370x262.jpg" crc="4269835713" seo="true" ref="phone>playurban">
-      <caption webpage="6-playurban" alt=""/>
       <caption webpage="playurban" alt=""/>
     </file>
     <file name="ambre007 copie copie371x263.jpg" crc="85015465" seo="true" ref="phone>playurban">
-      <caption webpage="6-playurban" alt=""/>
       <caption webpage="playurban" alt=""/>
     </file>
     <file name="ambre008 copie copie367x261.jpg" crc="55958088" seo="true" ref="phone>playurban">
-      <caption webpage="6-playurban" alt=""/>
       <caption webpage="playurban" alt=""/>
     </file>
     <file name="ambre009 copie copie367x261.jpg" crc="240416195" seo="true" ref="phone>playurban">
-      <caption webpage="6-playurban" alt=""/>
       <caption webpage="playurban" alt=""/>
     </file>
     <file name="ambre011 copie2371x263.jpg" crc="4189615350" seo="true" ref="phone>playurban">
-      <caption webpage="6-playurban" alt=""/>
       <caption webpage="playurban" alt=""/>
     </file>
     <file name="ambre012 copie copie371x263.jpg" crc="4154933775" seo="true" ref="phone>playurban">
-      <caption webpage="6-playurban" alt=""/>
       <caption webpage="playurban" alt=""/>
     </file>
     <file name="ambre016 copie-crop-u161673.jpg" crc="433921175" seo="true" ref="phone>playurban">
-      <caption webpage="6-playurban" alt=""/>
       <caption webpage="playurban" alt=""/>
     </file>
     <file name="ambre018 copie-crop-u162273.jpg" crc="4144599701" seo="true" ref="phone>playurban">
-      <caption webpage="6-playurban" alt=""/>
       <caption webpage="playurban" alt=""/>
     </file>
     <file name="ambre006 copie copie307x218.jpg" crc="214803849" seo="true" ref="phone>playurban">
-      <caption webpage="6-playurban" alt=""/>
       <caption webpage="playurban" alt=""/>
     </file>
     <file name="ambre007 copie copie311x220.jpg" crc="364621354" seo="true" ref="phone>playurban">
-      <caption webpage="6-playurban" alt=""/>
       <caption webpage="playurban" alt=""/>
     </file>
     <file name="ambre008 copie copie306x217.jpg" crc="483346159" seo="true" ref="phone>playurban">
-      <caption webpage="6-playurban" alt=""/>
       <caption webpage="playurban" alt=""/>
     </file>
     <file name="ambre009 copie copie311x221.jpg" crc="250775907" seo="true" ref="phone>playurban">
-      <caption webpage="6-playurban" alt=""/>
       <caption webpage="playurban" alt=""/>
     </file>
     <file name="ambre011 copie2310x220.jpg" crc="4287267444" seo="true" ref="phone>playurban">
-      <caption webpage="6-playurban" alt=""/>
       <caption webpage="playurban" alt=""/>
     </file>
     <file name="ambre012 copie copie310x220.jpg" crc="133913606" seo="true" ref="phone>playurban">
-      <caption webpage="6-playurban" alt=""/>
       <caption webpage="playurban" alt=""/>
     </file>
     <file name="compo_affiche_amge-crop-u16955.jpg" crc="3931562367" seo="true" ref="phone>la-revue-arts-et-métiers-graphiques">
-      <caption webpage="5-amg" alt=""/>
       <caption webpage="la-revue-arts-et-métiers-graphiques" alt=""/>
     </file>
     <file name="2-crop-u16971.jpg" crc="247600525" seo="true" ref="phone>la-revue-arts-et-métiers-graphiques">
-      <caption webpage="5-amg" alt=""/>
       <caption webpage="la-revue-arts-et-métiers-graphiques" alt=""/>
     </file>
     <file name="7-crop-u17295.jpg" crc="355173603" seo="true" ref="phone>la-revue-arts-et-métiers-graphiques">
-      <caption webpage="5-amg" alt=""/>
       <caption webpage="la-revue-arts-et-métiers-graphiques" alt=""/>
     </file>
     <file name="5 copieweb-crop-u17312.jpg" crc="4243288476" seo="true" ref="phone>la-revue-arts-et-métiers-graphiques">
-      <caption webpage="5-amg" alt=""/>
       <caption webpage="la-revue-arts-et-métiers-graphiques" alt=""/>
     </file>
     <file name="compo_affiche_amge-crop-u169552.jpg" crc="206870610" seo="true" ref="phone>la-revue-arts-et-métiers-graphiques">
-      <caption webpage="5-amg" alt=""/>
       <caption webpage="la-revue-arts-et-métiers-graphiques" alt=""/>
     </file>
     <file name="2-crop-u169712.jpg" crc="3992640283" seo="true" ref="phone>la-revue-arts-et-métiers-graphiques">
-      <caption webpage="5-amg" alt=""/>
       <caption webpage="la-revue-arts-et-métiers-graphiques" alt=""/>
     </file>
     <file name="7360x240.jpg" crc="224009581" seo="true" ref="phone>la-revue-arts-et-métiers-graphiques">
-      <caption webpage="5-amg" alt=""/>
       <caption webpage="la-revue-arts-et-métiers-graphiques" alt=""/>
     </file>
     <file name="5 copieweb-crop-u173122.jpg" crc="4098048754" seo="true" ref="phone>la-revue-arts-et-métiers-graphiques">
-      <caption webpage="5-amg" alt=""/>
       <caption webpage="la-revue-arts-et-métiers-graphiques" alt=""/>
     </file>
-    <file name="compo_affiche_amge-crop-u169553.jpg" crc="29333993" seo="true" ref="phone>la-revue-arts-et-métiers-graphiques">
-      <caption webpage="5-amg" alt=""/>
+    <file name="compo_affiche_amge-crop-u169553.jpg" crc="4013282513" seo="true" ref="phone>la-revue-arts-et-métiers-graphiques">
       <caption webpage="la-revue-arts-et-métiers-graphiques" alt=""/>
     </file>
     <file name="2-crop-u169713.jpg" crc="48835807" seo="true" ref="phone>la-revue-arts-et-métiers-graphiques">
-      <caption webpage="5-amg" alt=""/>
       <caption webpage="la-revue-arts-et-métiers-graphiques" alt=""/>
     </file>
     <file name="5 copieweb-crop-u173123.jpg" crc="418742846" seo="true" ref="phone>la-revue-arts-et-métiers-graphiques">
-      <caption webpage="5-amg" alt=""/>
       <caption webpage="la-revue-arts-et-métiers-graphiques" alt=""/>
     </file>
     <file name="7301x200.jpg" crc="3875162678" seo="true" ref="phone>la-revue-arts-et-métiers-graphiques">
-      <caption webpage="5-amg" alt=""/>
       <caption webpage="la-revue-arts-et-métiers-graphiques" alt=""/>
     </file>
     <file name="couv-crop-u32265.jpg" crc="3828721489" seo="true" ref="phone>mem.que">
       <caption webpage="mem.que" alt=""/>
-      <caption webpage="4-mem.que" alt=""/>
     </file>
     <file name="10 copie-crop-u32267.jpg" crc="51555365" seo="true" ref="phone>mem.que">
       <caption webpage="mem.que" alt=""/>
-      <caption webpage="4-mem.que" alt=""/>
     </file>
     <file name="4 copiecopie-crop-u32301.jpg" crc="4035882193" seo="true" ref="phone>mem.que">
       <caption webpage="mem.que" alt=""/>
-      <caption webpage="4-mem.que" alt=""/>
     </file>
     <file name="1 copie-crop-u32297.jpg" crc="4175407800" seo="true" ref="phone>mem.que">
       <caption webpage="mem.que" alt=""/>
-      <caption webpage="4-mem.que" alt=""/>
     </file>
     <file name="2 copie-crop-u32299.jpg" crc="4012521126" seo="true" ref="phone>mem.que">
       <caption webpage="mem.que" alt=""/>
-      <caption webpage="4-mem.que" alt=""/>
     </file>
     <file name="5 copie-crop-u32303.jpg" crc="122917057" seo="true" ref="phone>mem.que">
       <caption webpage="mem.que" alt=""/>
-      <caption webpage="4-mem.que" alt=""/>
     </file>
     <file name="6 copie-crop-u32305.jpg" crc="3985513031" seo="true" ref="phone>mem.que">
       <caption webpage="mem.que" alt=""/>
-      <caption webpage="4-mem.que" alt=""/>
     </file>
     <file name="couv-crop-u322652.jpg" crc="289215297" seo="true" ref="phone>mem.que">
       <caption webpage="mem.que" alt=""/>
-      <caption webpage="4-mem.que" alt=""/>
     </file>
     <file name="10 copie-crop-u322672.jpg" crc="508479130" seo="true" ref="phone>mem.que">
       <caption webpage="mem.que" alt=""/>
-      <caption webpage="4-mem.que" alt=""/>
     </file>
     <file name="4 copiecopie-crop-u323012.jpg" crc="3917623237" seo="true" ref="phone>mem.que">
       <caption webpage="mem.que" alt=""/>
-      <caption webpage="4-mem.que" alt=""/>
     </file>
     <file name="1 copie-crop-u322972.jpg" crc="3999059759" seo="true" ref="phone>mem.que">
       <caption webpage="mem.que" alt=""/>
-      <caption webpage="4-mem.que" alt=""/>
     </file>
     <file name="2 copie-crop-u322992.jpg" crc="59745529" seo="true" ref="phone>mem.que">
       <caption webpage="mem.que" alt=""/>
-      <caption webpage="4-mem.que" alt=""/>
     </file>
     <file name="5 copie-crop-u323032.jpg" crc="4008435598" seo="true" ref="phone>mem.que">
       <caption webpage="mem.que" alt=""/>
-      <caption webpage="4-mem.que" alt=""/>
     </file>
     <file name="6 copie-crop-u323052.jpg" crc="534101814" seo="true" ref="phone>mem.que">
       <caption webpage="mem.que" alt=""/>
-      <caption webpage="4-mem.que" alt=""/>
     </file>
     <file name="couv-crop-u322653.jpg" crc="433474906" seo="true" ref="phone>mem.que">
       <caption webpage="mem.que" alt=""/>
-      <caption webpage="4-mem.que" alt=""/>
     </file>
     <file name="10 copie-crop-u322673.jpg" crc="204378878" seo="true" ref="phone>mem.que">
       <caption webpage="mem.que" alt=""/>
-      <caption webpage="4-mem.que" alt=""/>
     </file>
     <file name="4 copiecopie-crop-u323013.jpg" crc="409359797" seo="true" ref="phone>mem.que">
       <caption webpage="mem.que" alt=""/>
-      <caption webpage="4-mem.que" alt=""/>
     </file>
     <file name="1 copie-crop-u322973.jpg" crc="4050596548" seo="true" ref="phone>mem.que">
       <caption webpage="mem.que" alt=""/>
-      <caption webpage="4-mem.que" alt=""/>
     </file>
     <file name="2 copie-crop-u322993.jpg" crc="251998328" seo="true" ref="phone>mem.que">
       <caption webpage="mem.que" alt=""/>
-      <caption webpage="4-mem.que" alt=""/>
     </file>
     <file name="5 copie-crop-u323033.jpg" crc="3849746100" seo="true" ref="phone>mem.que">
       <caption webpage="mem.que" alt=""/>
-      <caption webpage="4-mem.que" alt=""/>
     </file>
     <file name="6 copie-crop-u323053.jpg" crc="4150683514" seo="true" ref="phone>mem.que">
       <caption webpage="mem.que" alt=""/>
-      <caption webpage="4-mem.que" alt=""/>
     </file>
     <file name="bezalel 1-crop-u18162.jpg" crc="534570212" seo="true" ref="phone>bezalel">
       <caption webpage="bezalel" alt=""/>
@@ -385,395 +319,293 @@
     <file name="bezalel5-crop-u183122.jpg" crc="420979136" seo="true" ref="phone>bezalel">
       <caption webpage="bezalel" alt=""/>
     </file>
-    <file name="ambre018 copie copie ok-crop-u19831.jpg" crc="4252120688" seo="true" ref="phone>eta-19">
+    <file name="ambre018 copie copie ok-crop-u19831.jpg" crc="449170956" seo="true" ref="phone>eta-19">
       <caption webpage="eta-19" alt=""/>
-      <caption webpage="3--eta" alt=""/>
     </file>
     <file name="ambre008 copie-crop-u19876.jpg" crc="3923706704" seo="true" ref="phone>eta-19">
       <caption webpage="eta-19" alt=""/>
-      <caption webpage="3--eta" alt=""/>
     </file>
     <file name="ambre009 copie-crop-u19994.jpg" crc="200393301" seo="true" ref="phone>eta-19">
       <caption webpage="eta-19" alt=""/>
-      <caption webpage="3--eta" alt=""/>
     </file>
     <file name="ambre016 copie copie-crop-u19883.jpg" crc="504970164" seo="true" ref="phone>eta-19">
       <caption webpage="eta-19" alt=""/>
-      <caption webpage="3--eta" alt=""/>
     </file>
     <file name="ambre012 copie copie copie-crop-u19854.jpg" crc="214894706" seo="true" ref="phone>eta-19">
       <caption webpage="eta-19" alt=""/>
-      <caption webpage="3--eta" alt=""/>
     </file>
     <file name="ambre013 copie copie-crop-u19862.jpg" crc="4176383701" seo="true" ref="phone>eta-19">
       <caption webpage="eta-19" alt=""/>
-      <caption webpage="3--eta" alt=""/>
     </file>
     <file name="ambre014 copie copie-crop-u19869.jpg" crc="4168051311" seo="true" ref="phone>eta-19">
       <caption webpage="eta-19" alt=""/>
-      <caption webpage="3--eta" alt=""/>
     </file>
     <file name="ambre017 copie copie-crop-u19890.jpg" crc="172058622" seo="true" ref="phone>eta-19">
       <caption webpage="eta-19" alt=""/>
-      <caption webpage="3--eta" alt=""/>
     </file>
     <file name="ambre019 copie copie-crop-u19897.jpg" crc="503650264" seo="true" ref="phone>eta-19">
       <caption webpage="eta-19" alt=""/>
-      <caption webpage="3--eta" alt=""/>
     </file>
     <file name="ambre018 copie copie ok-crop-u198312.jpg" crc="214653109" seo="true" ref="phone>eta-19">
       <caption webpage="eta-19" alt=""/>
-      <caption webpage="3--eta" alt=""/>
     </file>
     <file name="ambre009 copie-crop-u199942.jpg" crc="4226725538" seo="true" ref="phone>eta-19">
       <caption webpage="eta-19" alt=""/>
-      <caption webpage="3--eta" alt=""/>
     </file>
     <file name="ambre008 copie-crop-u198762.jpg" crc="505639291" seo="true" ref="phone>eta-19">
       <caption webpage="eta-19" alt=""/>
-      <caption webpage="3--eta" alt=""/>
     </file>
     <file name="ambre016 copie copie-crop-u198832.jpg" crc="138202191" seo="true" ref="phone>eta-19">
       <caption webpage="eta-19" alt=""/>
-      <caption webpage="3--eta" alt=""/>
     </file>
     <file name="ambre012 copie copie copie-crop-u198542.jpg" crc="418166041" seo="true" ref="phone>eta-19">
       <caption webpage="eta-19" alt=""/>
-      <caption webpage="3--eta" alt=""/>
     </file>
     <file name="ambre014 copie copie-crop-u198692.jpg" crc="3771600458" seo="true" ref="phone>eta-19">
       <caption webpage="eta-19" alt=""/>
-      <caption webpage="3--eta" alt=""/>
     </file>
     <file name="ambre013 copie copie-crop-u198622.jpg" crc="327563977" seo="true" ref="phone>eta-19">
       <caption webpage="eta-19" alt=""/>
-      <caption webpage="3--eta" alt=""/>
     </file>
     <file name="ambre017 copie copie-crop-u198902.jpg" crc="259861535" seo="true" ref="phone>eta-19">
       <caption webpage="eta-19" alt=""/>
-      <caption webpage="3--eta" alt=""/>
     </file>
     <file name="ambre019 copie copie-crop-u198972.jpg" crc="4107654420" seo="true" ref="phone>eta-19">
       <caption webpage="eta-19" alt=""/>
-      <caption webpage="3--eta" alt=""/>
     </file>
     <file name="ambre018 copie copie ok-crop-u198313.jpg" crc="4039055387" seo="true" ref="phone>eta-19">
       <caption webpage="eta-19" alt=""/>
-      <caption webpage="3--eta" alt=""/>
     </file>
     <file name="ambre008 copie-crop-u198763.jpg" crc="407053196" seo="true" ref="phone>eta-19">
       <caption webpage="eta-19" alt=""/>
-      <caption webpage="3--eta" alt=""/>
     </file>
     <file name="ambre009 copie-crop-u199943.jpg" crc="3865484487" seo="true" ref="phone>eta-19">
       <caption webpage="eta-19" alt=""/>
-      <caption webpage="3--eta" alt=""/>
     </file>
     <file name="ambre016 copie copie-crop-u198833.jpg" crc="97044797" seo="true" ref="phone>eta-19">
       <caption webpage="eta-19" alt=""/>
-      <caption webpage="3--eta" alt=""/>
     </file>
     <file name="ambre012 copie copie copie-crop-u198543.jpg" crc="3961239603" seo="true" ref="phone>eta-19">
       <caption webpage="eta-19" alt=""/>
-      <caption webpage="3--eta" alt=""/>
     </file>
     <file name="ambre013 copie copie-crop-u198623.jpg" crc="4148279641" seo="true" ref="phone>eta-19">
       <caption webpage="eta-19" alt=""/>
-      <caption webpage="3--eta" alt=""/>
     </file>
     <file name="ambre014 copie copie-crop-u198693.jpg" crc="315540411" seo="true" ref="phone>eta-19">
       <caption webpage="eta-19" alt=""/>
-      <caption webpage="3--eta" alt=""/>
     </file>
     <file name="ambre017 copie copie-crop-u198903.jpg" crc="3809995237" seo="true" ref="phone>eta-19">
       <caption webpage="eta-19" alt=""/>
-      <caption webpage="3--eta" alt=""/>
     </file>
     <file name="ambre019 copie copie-crop-u198973.jpg" crc="415441452" seo="true" ref="phone>eta-19">
       <caption webpage="eta-19" alt=""/>
-      <caption webpage="3--eta" alt=""/>
     </file>
     <file name="1_1-crop-u18879.jpg" crc="50141613" seo="true" ref="phone>devoir-de-mémoire">
-      <caption webpage="ddm" alt=""/>
       <caption webpage="devoir-de-mémoire" alt=""/>
     </file>
     <file name="affichepsd.jpg" crc="333611584" seo="true" ref="phone>devoir-de-mémoire">
-      <caption webpage="ddm" alt=""/>
-      <caption webpage="ddm" alt=""/>
-      <caption webpage="ddm" alt=""/>
-      <caption webpage="ddm" alt=""/>
       <caption webpage="devoir-de-mémoire" alt=""/>
       <caption webpage="devoir-de-mémoire" alt=""/>
       <caption webpage="devoir-de-mémoire" alt=""/>
       <caption webpage="devoir-de-mémoire" alt=""/>
     </file>
     <file name="4_1-crop-u24165.jpg" crc="3791440590" seo="true" ref="phone>devoir-de-mémoire">
-      <caption webpage="ddm" alt=""/>
       <caption webpage="devoir-de-mémoire" alt=""/>
     </file>
     <file name="1_1-crop-u188792.jpg" crc="165448758" seo="true" ref="phone>devoir-de-mémoire">
-      <caption webpage="ddm" alt=""/>
       <caption webpage="devoir-de-mémoire" alt=""/>
     </file>
     <file name="affichepsd259x330.jpg" crc="489236349" seo="true" ref="phone>devoir-de-mémoire">
-      <caption webpage="ddm" alt=""/>
-      <caption webpage="ddm" alt=""/>
-      <caption webpage="ddm" alt=""/>
-      <caption webpage="ddm" alt=""/>
       <caption webpage="devoir-de-mémoire" alt=""/>
       <caption webpage="devoir-de-mémoire" alt=""/>
       <caption webpage="devoir-de-mémoire" alt=""/>
       <caption webpage="devoir-de-mémoire" alt=""/>
     </file>
     <file name="4_1-crop-u241652.jpg" crc="359104025" seo="true" ref="phone>devoir-de-mémoire">
-      <caption webpage="ddm" alt=""/>
       <caption webpage="devoir-de-mémoire" alt=""/>
     </file>
     <file name="affichepsd178x227.jpg" crc="4291726371" seo="true" ref="phone>devoir-de-mémoire">
-      <caption webpage="ddm" alt=""/>
-      <caption webpage="ddm" alt=""/>
-      <caption webpage="ddm" alt=""/>
-      <caption webpage="ddm" alt=""/>
       <caption webpage="devoir-de-mémoire" alt=""/>
       <caption webpage="devoir-de-mémoire" alt=""/>
       <caption webpage="devoir-de-mémoire" alt=""/>
       <caption webpage="devoir-de-mémoire" alt=""/>
     </file>
     <file name="1_1-crop-u188793.jpg" crc="172932256" seo="true" ref="phone>devoir-de-mémoire">
-      <caption webpage="ddm" alt=""/>
       <caption webpage="devoir-de-mémoire" alt=""/>
     </file>
     <file name="4_1-crop-u241653.jpg" crc="3826023900" seo="true" ref="phone>devoir-de-mémoire">
-      <caption webpage="ddm" alt=""/>
       <caption webpage="devoir-de-mémoire" alt=""/>
     </file>
     <file name="édition_1_montfortquemin _web-crop-u35361.jpg" crc="291560784" seo="true" ref="phone>irma">
-      <caption webpage="1--irma" alt=""/>
       <caption webpage="irma" alt=""/>
     </file>
     <file name="1-crop-u21707.jpg" crc="199965751" seo="true" ref="phone>irma">
-      <caption webpage="1--irma" alt=""/>
       <caption webpage="irma" alt=""/>
     </file>
     <file name="irma010-crop-u21729.jpg" crc="3808112200" seo="true" ref="phone>irma">
-      <caption webpage="1--irma" alt=""/>
       <caption webpage="irma" alt=""/>
     </file>
     <file name="7irma.jpg" crc="181924325" seo="true" ref="phone>irma">
-      <caption webpage="1--irma" alt=""/>
       <caption webpage="irma" alt=""/>
     </file>
     <file name="8irma.jpg" crc="452797245" seo="true" ref="phone>irma">
-      <caption webpage="1--irma" alt=""/>
       <caption webpage="irma" alt=""/>
     </file>
     <file name="irma012.jpg" crc="12361813" seo="true" ref="phone>irma">
-      <caption webpage="1--irma" alt=""/>
       <caption webpage="irma" alt=""/>
     </file>
     <file name="irma014.jpg" crc="109514946" seo="true" ref="phone>irma">
-      <caption webpage="1--irma" alt=""/>
       <caption webpage="irma" alt=""/>
     </file>
     <file name="irma015.jpg" crc="3958619786" seo="true" ref="phone>irma">
-      <caption webpage="1--irma" alt=""/>
       <caption webpage="irma" alt=""/>
     </file>
     <file name="irma017.jpg" crc="3928577616" seo="true" ref="phone>irma">
-      <caption webpage="1--irma" alt=""/>
       <caption webpage="irma" alt=""/>
     </file>
     <file name="irma018.jpg" crc="4081524979" seo="true" ref="phone>irma">
-      <caption webpage="1--irma" alt=""/>
       <caption webpage="irma" alt=""/>
     </file>
     <file name="irma022.jpg" crc="397220655" seo="true" ref="phone>irma">
-      <caption webpage="1--irma" alt=""/>
       <caption webpage="irma" alt=""/>
     </file>
     <file name="irma021.jpg" crc="430501164" seo="true" ref="phone>irma">
-      <caption webpage="1--irma" alt=""/>
       <caption webpage="irma" alt=""/>
     </file>
     <file name="irma025bis.jpg" crc="334061346" seo="true" ref="phone>irma">
-      <caption webpage="1--irma" alt=""/>
       <caption webpage="irma" alt=""/>
     </file>
     <file name="irma030.jpg" crc="480240191" seo="true" ref="phone>irma">
-      <caption webpage="1--irma" alt=""/>
       <caption webpage="irma" alt=""/>
     </file>
     <file name="irma031-crop-u21806.jpg" crc="239986839" seo="true" ref="phone>irma">
-      <caption webpage="1--irma" alt=""/>
       <caption webpage="irma" alt=""/>
     </file>
     <file name="édition_1_montfortquemin _web-crop-u353612.jpg" crc="3826288258" seo="true" ref="phone>irma">
-      <caption webpage="1--irma" alt=""/>
       <caption webpage="irma" alt=""/>
     </file>
     <file name="1-crop-u217072.jpg" crc="215404341" seo="true" ref="phone>irma">
-      <caption webpage="1--irma" alt=""/>
       <caption webpage="irma" alt=""/>
     </file>
     <file name="irma010-crop-u217292.jpg" crc="269949640" seo="true" ref="phone>irma">
-      <caption webpage="1--irma" alt=""/>
       <caption webpage="irma" alt=""/>
     </file>
     <file name="7irma368x244.jpg" crc="160013640" seo="true" ref="phone>irma">
-      <caption webpage="1--irma" alt=""/>
       <caption webpage="irma" alt=""/>
     </file>
     <file name="8irma369x246.jpg" crc="3794420729" seo="true" ref="phone>irma">
-      <caption webpage="1--irma" alt=""/>
       <caption webpage="irma" alt=""/>
     </file>
     <file name="irma012367x243.jpg" crc="461556282" seo="true" ref="phone>irma">
-      <caption webpage="1--irma" alt=""/>
       <caption webpage="irma" alt=""/>
     </file>
     <file name="irma014373x247.jpg" crc="262742865" seo="true" ref="phone>irma">
-      <caption webpage="1--irma" alt=""/>
       <caption webpage="irma" alt=""/>
     </file>
     <file name="irma015364x240.jpg" crc="3972751215" seo="true" ref="phone>irma">
-      <caption webpage="1--irma" alt=""/>
       <caption webpage="irma" alt=""/>
     </file>
     <file name="irma017370x243.jpg" crc="3777856476" seo="true" ref="phone>irma">
-      <caption webpage="1--irma" alt=""/>
       <caption webpage="irma" alt=""/>
     </file>
     <file name="irma022369x242.jpg" crc="59576632" seo="true" ref="phone>irma">
-      <caption webpage="1--irma" alt=""/>
       <caption webpage="irma" alt=""/>
     </file>
     <file name="irma021365x244.jpg" crc="333231123" seo="true" ref="phone>irma">
-      <caption webpage="1--irma" alt=""/>
       <caption webpage="irma" alt=""/>
     </file>
     <file name="irma025bis367x245.jpg" crc="3979940371" seo="true" ref="phone>irma">
-      <caption webpage="1--irma" alt=""/>
       <caption webpage="irma" alt=""/>
     </file>
     <file name="irma030367x242.jpg" crc="4139913619" seo="true" ref="phone>irma">
-      <caption webpage="1--irma" alt=""/>
       <caption webpage="irma" alt=""/>
     </file>
     <file name="irma018368x240.jpg" crc="207554457" seo="true" ref="phone>irma">
-      <caption webpage="1--irma" alt=""/>
       <caption webpage="irma" alt=""/>
     </file>
     <file name="irma031-crop-u218062.jpg" crc="3777771035" seo="true" ref="phone>irma">
-      <caption webpage="1--irma" alt=""/>
       <caption webpage="irma" alt=""/>
     </file>
     <file name="édition_1_montfortquemin _web-crop-u353613.jpg" crc="4125870220" seo="true" ref="phone>irma">
-      <caption webpage="1--irma" alt=""/>
       <caption webpage="irma" alt=""/>
     </file>
     <file name="1-crop-u217073.jpg" crc="4000138143" seo="true" ref="phone>irma">
-      <caption webpage="1--irma" alt=""/>
       <caption webpage="irma" alt=""/>
     </file>
     <file name="irma010-crop-u217293.jpg" crc="220654875" seo="true" ref="phone>irma">
-      <caption webpage="1--irma" alt=""/>
       <caption webpage="irma" alt=""/>
     </file>
     <file name="7irma306x204.jpg" crc="413922978" seo="true" ref="phone>irma">
-      <caption webpage="1--irma" alt=""/>
       <caption webpage="irma" alt=""/>
     </file>
     <file name="8irma307x205.jpg" crc="396567771" seo="true" ref="phone>irma">
-      <caption webpage="1--irma" alt=""/>
       <caption webpage="irma" alt=""/>
     </file>
     <file name="irma012308x204.jpg" crc="3955062836" seo="true" ref="phone>irma">
-      <caption webpage="1--irma" alt=""/>
       <caption webpage="irma" alt=""/>
     </file>
     <file name="irma014311x206.jpg" crc="28259678" seo="true" ref="phone>irma">
-      <caption webpage="1--irma" alt=""/>
       <caption webpage="irma" alt=""/>
     </file>
     <file name="irma015307x202.jpg" crc="3784258233" seo="true" ref="phone>irma">
-      <caption webpage="1--irma" alt=""/>
       <caption webpage="irma" alt=""/>
     </file>
     <file name="irma017312x204.jpg" crc="4002939645" seo="true" ref="phone>irma">
-      <caption webpage="1--irma" alt=""/>
       <caption webpage="irma" alt=""/>
     </file>
     <file name="irma018310x202.jpg" crc="4265554492" seo="true" ref="phone>irma">
-      <caption webpage="1--irma" alt=""/>
       <caption webpage="irma" alt=""/>
     </file>
     <file name="irma022304x200.jpg" crc="230477187" seo="true" ref="phone>irma">
-      <caption webpage="1--irma" alt=""/>
       <caption webpage="irma" alt=""/>
     </file>
     <file name="irma021305x203.jpg" crc="489109357" seo="true" ref="phone>irma">
-      <caption webpage="1--irma" alt=""/>
       <caption webpage="irma" alt=""/>
     </file>
     <file name="irma025bis306x204.jpg" crc="3895066881" seo="true" ref="phone>irma">
-      <caption webpage="1--irma" alt=""/>
       <caption webpage="irma" alt=""/>
     </file>
     <file name="irma030309x203.jpg" crc="212372197" seo="true" ref="phone>irma">
-      <caption webpage="1--irma" alt=""/>
       <caption webpage="irma" alt=""/>
     </file>
     <file name="irma031-crop-u218063.jpg" crc="411161447" seo="true" ref="phone>irma">
-      <caption webpage="1--irma" alt=""/>
       <caption webpage="irma" alt=""/>
     </file>
     <file name="dsc_0264 copie593x453.jpg" crc="429594568" seo="true" ref="phone>silkscreen-on-glass">
       <caption webpage="silkscreen-on-glass" alt=""/>
-      <caption webpage="série" alt=""/>
     </file>
     <file name="dsc_0226 copie-crop-u22601.jpg" crc="4257106717" seo="true" ref="phone>silkscreen-on-glass">
       <caption webpage="silkscreen-on-glass" alt=""/>
-      <caption webpage="série" alt=""/>
     </file>
     <file name="4-crop-u22615.jpg" crc="3816195716" seo="true" ref="phone>silkscreen-on-glass">
       <caption webpage="silkscreen-on-glass" alt=""/>
-      <caption webpage="série" alt=""/>
     </file>
     <file name="2 copie-crop-u22643.jpg" crc="3961685691" seo="true" ref="phone>silkscreen-on-glass">
       <caption webpage="silkscreen-on-glass" alt=""/>
-      <caption webpage="série" alt=""/>
     </file>
     <file name="dsc_0264 copie361x276.jpg" crc="250850678" seo="true" ref="phone>silkscreen-on-glass">
       <caption webpage="silkscreen-on-glass" alt=""/>
-      <caption webpage="série" alt=""/>
     </file>
     <file name="dsc_0226 copie-crop-u226012.jpg" crc="4186449105" seo="true" ref="phone>silkscreen-on-glass">
       <caption webpage="silkscreen-on-glass" alt=""/>
-      <caption webpage="série" alt=""/>
     </file>
     <file name="4-crop-u226152.jpg" crc="99404183" seo="true" ref="phone>silkscreen-on-glass">
       <caption webpage="silkscreen-on-glass" alt=""/>
-      <caption webpage="série" alt=""/>
     </file>
     <file name="2 copie-crop-u226432.jpg" crc="526432158" seo="true" ref="phone>silkscreen-on-glass">
       <caption webpage="silkscreen-on-glass" alt=""/>
-      <caption webpage="série" alt=""/>
     </file>
     <file name="dsc_0264 copie300x229.jpg" crc="120726148" seo="true" ref="phone>silkscreen-on-glass">
       <caption webpage="silkscreen-on-glass" alt=""/>
-      <caption webpage="série" alt=""/>
     </file>
     <file name="dsc_0226 copie-crop-u226013.jpg" crc="3982840714" seo="true" ref="phone>silkscreen-on-glass">
       <caption webpage="silkscreen-on-glass" alt=""/>
-      <caption webpage="série" alt=""/>
     </file>
     <file name="4-crop-u226153.jpg" crc="4060418919" seo="true" ref="phone>silkscreen-on-glass">
       <caption webpage="silkscreen-on-glass" alt=""/>
-      <caption webpage="série" alt=""/>
     </file>
     <file name="2 copie-crop-u226433.jpg" crc="3955166548" seo="true" ref="phone>silkscreen-on-glass">
       <caption webpage="silkscreen-on-glass" alt=""/>
-      <caption webpage="série" alt=""/>
     </file>
     <file name="6-crop-u25475.jpg" crc="4085505177" seo="true" ref="phone>indexx">
       <caption webpage="indexx" alt=""/>
@@ -875,7 +707,7 @@
     <file name="12-crop-u25792.jpg" crc="4243972236" seo="true" ref="phone>l-inventaire-de-l-invention">
       <caption webpage="l-inventaire-de-l-invention" alt=""/>
     </file>
-    <file name="4copie-crop-u256582.jpg" crc="66198787" seo="true" ref="phone>l-inventaire-de-l-invention">
+    <file name="4copie-crop-u256582.jpg" crc="188034312" seo="true" ref="phone>l-inventaire-de-l-invention">
       <caption webpage="l-inventaire-de-l-invention" alt=""/>
     </file>
     <file name="a7311x385.jpg" crc="3846056102" seo="true" ref="phone>l-inventaire-de-l-invention">
@@ -893,13 +725,13 @@
     <file name="9-crop-u257032.jpg" crc="286223948" seo="true" ref="phone>l-inventaire-de-l-invention">
       <caption webpage="l-inventaire-de-l-invention" alt=""/>
     </file>
-    <file name="12-crop-u257922.jpg" crc="3787182495" seo="true" ref="phone>l-inventaire-de-l-invention">
+    <file name="12-crop-u257922.jpg" crc="92411351" seo="true" ref="phone>l-inventaire-de-l-invention">
       <caption webpage="l-inventaire-de-l-invention" alt=""/>
     </file>
     <file name="a7278x345.jpg" crc="4286971006" seo="true" ref="phone>l-inventaire-de-l-invention">
       <caption webpage="l-inventaire-de-l-invention" alt=""/>
     </file>
-    <file name="4copie-crop-u256583.jpg" crc="325077972" seo="true" ref="phone>l-inventaire-de-l-invention">
+    <file name="4copie-crop-u256583.jpg" crc="472327800" seo="true" ref="phone>l-inventaire-de-l-invention">
       <caption webpage="l-inventaire-de-l-invention" alt=""/>
     </file>
     <file name="11-crop-u257633.jpg" crc="3891222020" seo="true" ref="phone>l-inventaire-de-l-invention">
@@ -914,15 +746,13 @@
     <file name="9-crop-u257033.jpg" crc="4109094865" seo="true" ref="phone>l-inventaire-de-l-invention">
       <caption webpage="l-inventaire-de-l-invention" alt=""/>
     </file>
-    <file name="12-crop-u257923.jpg" crc="4114240420" seo="true" ref="phone>l-inventaire-de-l-invention">
+    <file name="12-crop-u257923.jpg" crc="4220609912" seo="true" ref="phone>l-inventaire-de-l-invention">
       <caption webpage="l-inventaire-de-l-invention" alt=""/>
     </file>
-    <file name="affiches_1_montfortquemin.jpg" crc="311644997" ref="phone>irma-poster:index">
-      <caption webpage="index" alt=""/>
+    <file name="affiches_1_montfortquemin.jpg" crc="4200178427" seo="true" ref="phone>irma-poster">
       <caption webpage="irma-poster" alt=""/>
     </file>
-    <file name="grandes affichesok2.jpg" crc="524661912" seo="true" ref="phone>irma-poster:irma-posters">
-      <caption webpage="irma-posters" alt=""/>
+    <file name="grandes affichesok2.jpg" crc="4181390706" seo="true" ref="phone>irma-poster">
       <caption webpage="irma-poster" alt=""/>
     </file>
     <file name="grandes affichesok3.jpg" crc="4085040016" seo="true" ref="phone>irma-poster:irma-posters">
@@ -936,8 +766,7 @@
     <file name="grandes affichesok8-crop-u26225.jpg" crc="3893664098" seo="true" ref="phone>irma-poster">
       <caption webpage="irma-poster" alt=""/>
     </file>
-    <file name="grandes affichesok4.jpg" crc="3760073246" seo="true" ref="phone>irma-poster:irma-posters">
-      <caption webpage="irma-posters" alt=""/>
+    <file name="grandes affichesok4.jpg" crc="3816025948" seo="true" ref="phone>irma-poster">
       <caption webpage="irma-poster" alt=""/>
     </file>
     <file name="affiches_1_montfortquemin359x240.jpg" crc="359036833" seo="true" ref="phone>irma-poster">
@@ -976,6 +805,7 @@
     <file name="grandes affichesok4301x426.jpg" crc="441095590" seo="true" ref="phone>irma-poster">
       <caption webpage="irma-poster" alt=""/>
     </file>
+    <file name="édition_1_montfortquemin copie_web-u12508-fr.jpg" crc="4002677642" ref="phone>index"/>
     <file name="édition_1_montfortquemin _web-u12508-r-fr.jpg" crc="174431451" ref="phone>index"/>
     <file name="affiches_1_montfortquemin copie-u12537-fr.jpg" crc="3851479716" ref="phone>index"/>
     <file name="affiches_1_montfortquemin-u12537-r-fr.jpg" crc="210918104" ref="phone>index"/>
@@ -999,6 +829,7 @@
     <file name="6-u12529-r-fr.jpg" crc="3760673309" ref="phone>index"/>
     <file name="ddm-u12514-fr.jpg" crc="59721025" ref="phone>index"/>
     <file name="1_1-u12514-r-fr.jpg" crc="3915041918" ref="phone>index"/>
+    <file name="édition_1_montfortquemin copie_web-u12508-fr2.jpg" crc="330268428" ref="phone>index"/>
     <file name="édition_1_montfortquemin _web-u12508-r-fr2.jpg" crc="3798173625" ref="phone>index"/>
     <file name="affiches_1_montfortquemin copie-u12537-fr2.jpg" crc="3941035355" ref="phone>index"/>
     <file name="affiches_1_montfortquemin-u12537-r-fr2.jpg" crc="384753356" ref="phone>index"/>
@@ -1022,6 +853,7 @@
     <file name="6-u12529-r-fr2.jpg" crc="4174365155" ref="phone>index"/>
     <file name="ddm-u12514-fr2.jpg" crc="3849408997" ref="phone>index"/>
     <file name="1_1-u12514-r-fr2.jpg" crc="215289794" ref="phone>index"/>
+    <file name="édition_1_montfortquemin copie_web-u12508-fr3.jpg" crc="4093132131" ref="phone>index"/>
     <file name="édition_1_montfortquemin _web-u12508-r-fr3.jpg" crc="3893214729" ref="phone>index"/>
     <file name="affiches_1_montfortquemin copie-u12537-fr3.jpg" crc="137495367" ref="phone>index"/>
     <file name="affiches_1_montfortquemin-u12537-r-fr3.jpg" crc="67369638" ref="phone>index"/>
@@ -1045,126 +877,84 @@
     <file name="6-u12529-r-fr3.jpg" crc="3956943489" ref="phone>index"/>
     <file name="ddm-u12514-fr3.jpg" crc="69101422" ref="phone>index"/>
     <file name="1_1-u12514-r-fr3.jpg" crc="3883329210" ref="phone>index"/>
-    <file name="édition_1_montfortquemin _web.jpg" crc="173487691" ref="irma:index" seo="true">
+    <file name="édition_1_montfortquemin copie_web.jpg" crc="3610031" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="home" alt=""/>
+    </file>
+    <file name="édition_1_montfortquemin _web.jpg" crc="173487691" seo="true" ref="index:irma">
+      <caption webpage="index" alt=""/>
       <caption webpage="irma" alt=""/>
-      <caption webpage="page-d-accueil" alt=""/>
     </file>
     <file name="eta copie.jpg" crc="4138629561" ref="index">
-      <caption webpage="home" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="page-d-accueil" alt=""/>
     </file>
     <file name="eta.jpg" crc="195717643" ref="index">
-      <caption webpage="home" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="page-d-accueil" alt=""/>
     </file>
     <file name="ddm.jpg" crc="4106277154" ref="index">
-      <caption webpage="home" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="page-d-accueil" alt=""/>
     </file>
     <file name="1_1.jpg" crc="3949151804" ref="index">
-      <caption webpage="home" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="page-d-accueil" alt=""/>
     </file>
     <file name="bezalel.jpg" crc="248547861" ref="index">
-      <caption webpage="home" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="page-d-accueil" alt=""/>
     </file>
     <file name="ambre037 copie.jpg" crc="3816548957" ref="index">
-      <caption webpage="home" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="page-d-accueil" alt=""/>
     </file>
     <file name="affiches_1_montfortquemin copie.jpg" crc="3980441473" ref="index">
-      <caption webpage="home" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="page-d-accueil" alt=""/>
     </file>
-    <file name="affiches_1_montfortquemin2.jpg" crc="4047435973" ref="irma-posters" seo="true">
-      <caption webpage="home" alt=""/>
-      <caption webpage="irma-posters" alt=""/>
-      <caption webpage="page-d-accueil" alt=""/>
+    <file name="affiches_1_montfortquemin2.jpg" crc="311644997" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
     <file name="play urban .jpg" crc="3970660319" ref="index">
-      <caption webpage="home" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="page-d-accueil" alt=""/>
     </file>
     <file name="ambre016 copie.jpg" crc="3770547554" ref="index">
-      <caption webpage="home" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="page-d-accueil" alt=""/>
     </file>
     <file name="verre copie.jpg" crc="416295680" ref="index">
-      <caption webpage="home" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="page-d-accueil" alt=""/>
     </file>
     <file name="verre.jpg" crc="4200225081" ref="index">
-      <caption webpage="home" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="page-d-accueil" alt=""/>
     </file>
     <file name="index.jpg" crc="3991794131" ref="index">
-      <caption webpage="home" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="page-d-accueil" alt=""/>
     </file>
     <file name="6.jpg" crc="436272786" ref="index">
-      <caption webpage="home" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="page-d-accueil" alt=""/>
     </file>
     <file name="amg.jpg" crc="362420242" ref="index">
-      <caption webpage="home" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="page-d-accueil" alt=""/>
     </file>
     <file name="2.jpg" crc="3952567634" ref="index">
-      <caption webpage="home" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="page-d-accueil" alt=""/>
     </file>
     <file name="couv copie.jpg" crc="4108027250" ref="index">
-      <caption webpage="home" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="page-d-accueil" alt=""/>
     </file>
     <file name="couv.jpg" crc="3785283076" ref="index">
-      <caption webpage="home" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="page-d-accueil" alt=""/>
     </file>
     <file name="affiche okbook copie2 copie.jpg" crc="4258419809" ref="index">
-      <caption webpage="home" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="page-d-accueil" alt=""/>
     </file>
     <file name="affiche okbook copie2.jpg" crc="4101466240" ref="index">
-      <caption webpage="home" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="page-d-accueil" alt=""/>
     </file>
     <file name="linventairedelnvention.jpg" crc="4145733307" ref="index">
-      <caption webpage="home" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="page-d-accueil" alt=""/>
     </file>
     <file name="a7 copie.jpg" crc="4222231005" ref="index">
-      <caption webpage="home" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="page-d-accueil" alt=""/>
     </file>
     <file name="ddm-u3989-fr.jpg" crc="4203692362" ref="index"/>
     <file name="1_1-u3989-r-fr.jpg" crc="381797566" ref="index"/>
     <file name="bezalel-u5101-fr.jpg" crc="3853279610" ref="index"/>
     <file name="ambre037 copie-u5101-r-fr.jpg" crc="67690230" ref="index"/>
+    <file name="édition_1_montfortquemin copie_web-u2187-fr.jpg" crc="3962479744" ref="index"/>
     <file name="édition_1_montfortquemin _web-u2187-r-fr.jpg" crc="3962096874" ref="index"/>
     <file name="eta copie-u4226-fr.jpg" crc="150987076" ref="index"/>
     <file name="eta-u4226-r-fr.jpg" crc="85321701" ref="index"/>
@@ -1184,6 +974,7 @@
     <file name="affiche okbook copie2-u2393-r-fr.jpg" crc="362648470" ref="index"/>
     <file name="linventairedelnvention-u4013-fr.jpg" crc="431814939" ref="index"/>
     <file name="a7 copie-u4013-r-fr.jpg" crc="380837895" ref="index"/>
+    <file name="édition_1_montfortquemin copie_web-u2187-fr2.jpg" crc="3782660644" ref="index"/>
     <file name="édition_1_montfortquemin _web-u2187-r-fr2.jpg" crc="500719123" ref="index"/>
     <file name="eta copie-u4226-fr2.jpg" crc="3795635270" ref="index"/>
     <file name="eta-u4226-r-fr2.jpg" crc="3892756061" ref="index"/>
@@ -1209,15 +1000,16 @@
     <file name="a7 copie-u4013-r-fr2.jpg" crc="4197462898" ref="index"/>
     <file name="bezalel-u5101-fr3.jpg" crc="3939566331" ref="index"/>
     <file name="ambre037 copie-u5101-r-fr3.jpg" crc="26743180" ref="index"/>
+    <file name="édition_1_montfortquemin copie_web-u2187-fr3.jpg" crc="32259155" ref="index"/>
     <file name="édition_1_montfortquemin _web-u2187-r-fr3.jpg" crc="390794590" ref="index"/>
     <file name="eta copie-u4226-fr3.jpg" crc="4245149065" ref="index"/>
     <file name="eta-u4226-r-fr3.jpg" crc="498724046" ref="index"/>
+    <file name="amg-u4343-fr3.jpg" crc="4241016067" ref="index"/>
+    <file name="2-u4343-r-fr3.jpg" crc="422974888" ref="index"/>
     <file name="affiches_1_montfortquemin copie-u2188-fr3.jpg" crc="334176410" ref="index"/>
     <file name="affiches_1_montfortquemin-u2188-r-fr3.jpg" crc="401617744" ref="index"/>
     <file name="ddm-u3989-fr3.jpg" crc="3866217488" ref="index"/>
     <file name="1_1-u3989-r-fr3.jpg" crc="141226263" ref="index"/>
-    <file name="amg-u4343-fr3.jpg" crc="4241016067" ref="index"/>
-    <file name="2-u4343-r-fr3.jpg" crc="422974888" ref="index"/>
     <file name="play urban -u3945-fr3.jpg" crc="4040697530" ref="index"/>
     <file name="ambre016 copie-u3945-r-fr3.jpg" crc="4095576627" ref="index"/>
     <file name="verre copie-u5460-fr3.jpg" crc="3844017316" ref="index"/>
@@ -1231,198 +1023,152 @@
     <file name="linventairedelnvention-u4013-fr3.jpg" crc="4016721178" ref="index"/>
     <file name="a7 copie-u4013-r-fr3.jpg" crc="3943391655" ref="index"/>
     <file name="ambre016 copie2.jpg" crc="4126991876" seo="true" ref="playurban">
-      <caption webpage="6-playurban" alt=""/>
+      <caption webpage="playurban" alt=""/>
+    </file>
+    <file name="ambre008 copie copie2.jpg" crc="41048015" seo="true" ref="playurban">
       <caption webpage="playurban" alt=""/>
     </file>
     <file name="ambre007 copie copie.jpg" crc="332861586" seo="true" ref="playurban">
-      <caption webpage="6-playurban" alt=""/>
       <caption webpage="playurban" alt=""/>
     </file>
     <file name="ambre006 copie copie.jpg" crc="3917125246" seo="true" ref="playurban">
-      <caption webpage="6-playurban" alt=""/>
       <caption webpage="playurban" alt=""/>
     </file>
     <file name="ambre012 copie copie.jpg" crc="3893938753" seo="true" ref="playurban">
-      <caption webpage="6-playurban" alt=""/>
+      <caption webpage="playurban" alt=""/>
+    </file>
+    <file name="ambre011 copie22.jpg" crc="3921072716" seo="true" ref="playurban">
       <caption webpage="playurban" alt=""/>
     </file>
     <file name="ambre018 copie.jpg" crc="3976002978" seo="true" ref="playurban">
-      <caption webpage="6-playurban" alt=""/>
       <caption webpage="playurban" alt=""/>
     </file>
-    <file name="loading.gif" crc="3815509949" ref="bezalel:indexx:l-inventaire-de-l-invention:playurban:irma:eta-19:mem.que:la-revue-arts-et-métiers-graphiques:devoir-de-mémoire:silkscreen-on-glass:irma-posters:if-other-please-specify"/>
-    <file name="édition_1_montfortquemin.jpg" crc="242527063" seo="true" ref="irma-posters">
-      <caption webpage="irma-posters" alt=""/>
-      <caption webpage="1--irma" alt=""/>
-      <caption webpage="irma-poster" alt=""/>
-    </file>
+    <file name="loading.gif" crc="3815509949" ref="playurban:irma:eta-19:mem.que:la-revue-arts-et-métiers-graphiques:if-other-please-specify:devoir-de-mémoire:silkscreen-on-glass:bezalel:indexx:l-inventaire-de-l-invention:irma-posters"/>
     <file name="3 irma copie-crop-u5796.png" crc="3974593894" seo="true" ref="irma">
-      <caption webpage="1--irma" alt=""/>
       <caption webpage="irma" alt=""/>
     </file>
     <file name="irma011-crop-u5816.jpg" crc="4175305537" seo="true" ref="irma">
-      <caption webpage="1--irma" alt=""/>
       <caption webpage="irma" alt=""/>
     </file>
     <file name="irma015 copie-crop-u5836.png" crc="3874003857" seo="true" ref="irma">
-      <caption webpage="1--irma" alt=""/>
       <caption webpage="irma" alt=""/>
     </file>
     <file name="irma012 copie-crop-u5856.png" crc="127037590" seo="true" ref="irma">
-      <caption webpage="1--irma" alt=""/>
       <caption webpage="irma" alt=""/>
     </file>
     <file name="irma014 copie-crop-u5876.png" crc="269909619" seo="true" ref="irma">
-      <caption webpage="1--irma" alt=""/>
       <caption webpage="irma" alt=""/>
     </file>
     <file name="irma022 copie-crop-u5896.png" crc="254382464" seo="true" ref="irma">
-      <caption webpage="1--irma" alt=""/>
       <caption webpage="irma" alt=""/>
     </file>
     <file name="irma025bis copie-crop-u5916.png" crc="3916668661" seo="true" ref="irma">
-      <caption webpage="1--irma" alt=""/>
       <caption webpage="irma" alt=""/>
     </file>
     <file name="irma021 copie-crop-u5936.png" crc="524327293" seo="true" ref="irma">
-      <caption webpage="1--irma" alt=""/>
       <caption webpage="irma" alt=""/>
     </file>
     <file name="irma031 copie-crop-u6027.png" crc="3948201753" seo="true" ref="irma">
-      <caption webpage="1--irma" alt=""/>
       <caption webpage="irma" alt=""/>
     </file>
     <file name="2irma copie-crop-u6047.png" crc="4290340439" seo="true" ref="irma">
-      <caption webpage="1--irma" alt=""/>
       <caption webpage="irma" alt=""/>
     </file>
     <file name="irma018 copie-crop-u6087.png" crc="3919680622" seo="true" ref="irma">
-      <caption webpage="1--irma" alt=""/>
       <caption webpage="irma" alt=""/>
     </file>
     <file name="5irma copie-crop-u6107.png" crc="381463440" seo="true" ref="irma">
-      <caption webpage="1--irma" alt=""/>
       <caption webpage="irma" alt=""/>
     </file>
-    <file name="ambre018 copie copie ok-crop-u6745.jpg" crc="106865647" seo="true" ref="eta-19">
+    <file name="ambre018 copie copie ok-crop-u6745.jpg" crc="526979959" seo="true" ref="eta-19">
       <caption webpage="eta-19" alt=""/>
-      <caption webpage="3--eta" alt=""/>
     </file>
     <file name="ambre008 copie-crop-u7142.jpg" crc="4251660050" seo="true" ref="eta-19">
       <caption webpage="eta-19" alt=""/>
-      <caption webpage="3--eta" alt=""/>
     </file>
     <file name="ambre009 copie-crop-u7162.jpg" crc="3761801080" seo="true" ref="eta-19">
       <caption webpage="eta-19" alt=""/>
-      <caption webpage="3--eta" alt=""/>
     </file>
     <file name="ambre011 copie copie-crop-u7182.jpg" crc="122593950" seo="true" ref="eta-19">
       <caption webpage="eta-19" alt=""/>
-      <caption webpage="3--eta" alt=""/>
     </file>
     <file name="ambre016 copie copie-u7237.png" crc="115750802" ref="eta-19"/>
     <file name="ambre012 copie copie copie-crop-u7257.jpg" crc="4276428326" seo="true" ref="eta-19">
       <caption webpage="eta-19" alt=""/>
-      <caption webpage="3--eta" alt=""/>
     </file>
     <file name="ambre013 copie copie-crop-u7277.jpg" crc="4210841080" seo="true" ref="eta-19">
       <caption webpage="eta-19" alt=""/>
-      <caption webpage="3--eta" alt=""/>
     </file>
     <file name="ambre017 copie copie-crop-u7297.jpg" crc="4294914973" seo="true" ref="eta-19">
       <caption webpage="eta-19" alt=""/>
-      <caption webpage="3--eta" alt=""/>
     </file>
     <file name="ambre019 copie copie-crop-u7317.jpg" crc="422749810" seo="true" ref="eta-19">
       <caption webpage="eta-19" alt=""/>
-      <caption webpage="3--eta" alt=""/>
     </file>
     <file name="couv-crop-u14422.jpg" crc="227037789" seo="true" ref="mem.que">
       <caption webpage="mem.que" alt=""/>
-      <caption webpage="4-mem.que" alt=""/>
     </file>
     <file name="4 copiecopie-crop-u14424.jpg" crc="3912739842" seo="true" ref="mem.que">
       <caption webpage="mem.que" alt=""/>
-      <caption webpage="4-mem.que" alt=""/>
     </file>
     <file name="1 copie-crop-u14426.jpg" crc="3768565111" seo="true" ref="mem.que">
       <caption webpage="mem.que" alt=""/>
-      <caption webpage="4-mem.que" alt=""/>
     </file>
     <file name="5 copie-crop-u14562.jpg" crc="3948246205" seo="true" ref="mem.que">
       <caption webpage="mem.que" alt=""/>
-      <caption webpage="4-mem.que" alt=""/>
     </file>
     <file name="2 copie-crop-u14582.jpg" crc="490045314" seo="true" ref="mem.que">
       <caption webpage="mem.que" alt=""/>
-      <caption webpage="4-mem.que" alt=""/>
     </file>
     <file name="6 copie-crop-u14602.jpg" crc="328245680" seo="true" ref="mem.que">
       <caption webpage="mem.que" alt=""/>
-      <caption webpage="4-mem.que" alt=""/>
     </file>
     <file name="10 copie-crop-u14622.jpg" crc="3791230368" seo="true" ref="mem.que">
       <caption webpage="mem.que" alt=""/>
-      <caption webpage="4-mem.que" alt=""/>
     </file>
     <file name="compo_affiche_amge.jpg" crc="3863311004" seo="true" ref="la-revue-arts-et-métiers-graphiques">
-      <caption webpage="5-amg" alt=""/>
       <caption webpage="la-revue-arts-et-métiers-graphiques" alt=""/>
     </file>
     <file name="22.jpg" crc="3957064440" seo="true" ref="la-revue-arts-et-métiers-graphiques">
-      <caption webpage="5-amg" alt=""/>
       <caption webpage="la-revue-arts-et-métiers-graphiques" alt=""/>
     </file>
     <file name="7.jpg" crc="3767589927" seo="true" ref="la-revue-arts-et-métiers-graphiques">
-      <caption webpage="5-amg" alt=""/>
       <caption webpage="la-revue-arts-et-métiers-graphiques" alt=""/>
     </file>
     <file name="5-crop-u8521.jpg" crc="422478082" seo="true" ref="la-revue-arts-et-métiers-graphiques">
-      <caption webpage="5-amg" alt=""/>
       <caption webpage="la-revue-arts-et-métiers-graphiques" alt=""/>
     </file>
     <file name="affiche ips sans fond.jpg" crc="436692103" seo="true" ref="if-other-please-specify">
-      <caption webpage="index" alt=""/>
       <caption webpage="if-other-please-specify" alt=""/>
     </file>
     <file name="ambre013 copie.jpg" crc="3867632860" seo="true" ref="if-other-please-specify">
-      <caption webpage="index" alt=""/>
       <caption webpage="if-other-please-specify" alt=""/>
     </file>
     <file name="img_20181010_110100_178.jpg" crc="3890636908" seo="true" ref="if-other-please-specify">
-      <caption webpage="index" alt=""/>
       <caption webpage="if-other-please-specify" alt=""/>
     </file>
     <file name="ddm image 1-crop-u7650.jpg" crc="4129410795" seo="true" ref="devoir-de-mémoire">
-      <caption webpage="ddm" alt=""/>
       <caption webpage="devoir-de-mémoire" alt=""/>
     </file>
     <file name="ddm affiche 2.jpg" crc="137938702" seo="true" ref="devoir-de-mémoire">
-      <caption webpage="ddm" alt=""/>
       <caption webpage="devoir-de-mémoire" alt=""/>
     </file>
     <file name="ddm6.jpg" crc="3902750420" seo="true" ref="devoir-de-mémoire">
-      <caption webpage="ddm" alt=""/>
       <caption webpage="devoir-de-mémoire" alt=""/>
     </file>
     <file name="4.jpg" crc="501004767" seo="true" ref="devoir-de-mémoire">
-      <caption webpage="ddm" alt=""/>
       <caption webpage="devoir-de-mémoire" alt=""/>
     </file>
     <file name="dsc_0264 copie.jpg" crc="429592400" seo="true" ref="silkscreen-on-glass">
-      <caption webpage="série" alt=""/>
       <caption webpage="silkscreen-on-glass" alt=""/>
     </file>
     <file name="dsc_0226 copie-crop-u14686.jpg" crc="101156860" seo="true" ref="silkscreen-on-glass">
-      <caption webpage="série" alt=""/>
       <caption webpage="silkscreen-on-glass" alt=""/>
     </file>
     <file name="42.jpg" crc="3935782164" seo="true" ref="silkscreen-on-glass">
-      <caption webpage="série" alt=""/>
       <caption webpage="silkscreen-on-glass" alt=""/>
     </file>
     <file name="2 copie.jpg" crc="360293516" seo="true" ref="silkscreen-on-glass">
-      <caption webpage="série" alt=""/>
       <caption webpage="silkscreen-on-glass" alt=""/>
     </file>
     <file name="2-crop-u8593.jpg" crc="4174009396" seo="true" ref="bezalel">
@@ -1475,7 +1221,7 @@
     </file>
     <file name="ambre032 copie-u9405.png" crc="84302120" ref="indexx"/>
     <file name="a7-u9505.png" crc="187796458" ref="l-inventaire-de-l-invention"/>
-    <file name="4copie-crop-u9497.jpg" crc="3787664607" seo="true" ref="l-inventaire-de-l-invention">
+    <file name="4copie-crop-u9497.jpg" crc="3940448538" seo="true" ref="l-inventaire-de-l-invention">
       <caption webpage="l-inventaire-de-l-invention" alt=""/>
     </file>
     <file name="6-crop-u9503.jpg" crc="4038819157" seo="true" ref="l-inventaire-de-l-invention">
@@ -1490,41 +1236,34 @@
     <file name="14 copie.jpg" crc="4130086619" seo="true" ref="l-inventaire-de-l-invention">
       <caption webpage="l-inventaire-de-l-invention" alt=""/>
     </file>
-    <file name="12-crop-u9493.jpg" crc="24156881" seo="true" ref="l-inventaire-de-l-invention">
+    <file name="12-crop-u9493.jpg" crc="61159329" seo="true" ref="l-inventaire-de-l-invention">
       <caption webpage="l-inventaire-de-l-invention" alt=""/>
+    </file>
+    <file name="affiches_1_montfortquemin3.jpg" crc="4047435973" seo="true" ref="irma-posters">
+      <caption webpage="irma-posters" alt=""/>
+    </file>
+    <file name="édition_1_montfortquemin.jpg" crc="242527063" seo="true" ref="irma-posters">
+      <caption webpage="irma-posters" alt=""/>
+    </file>
+    <file name="grandes affichesok42.jpg" crc="3760073246" seo="true" ref="irma-posters">
+      <caption webpage="irma-posters" alt=""/>
     </file>
     <file name="grandes affiches2.jpg" crc="3942947017" seo="true" ref="irma-posters">
       <caption webpage="irma-posters" alt=""/>
-      <caption webpage="irma-poster" alt=""/>
     </file>
-    <file name="édition_1_montfortquemin copie_web-u12508-fr.jpg" crc="4002677642" ref="phone>index"/>
-    <file name="édition_1_montfortquemin copie_web-u12508-fr2.jpg" crc="330268428" ref="phone>index"/>
-    <file name="édition_1_montfortquemin copie_web-u12508-fr3.jpg" crc="4093132131" ref="phone>index"/>
-    <file name="édition_1_montfortquemin copie_web.jpg" crc="3610031" ref="index">
-      <caption webpage="home" alt=""/>
-      <caption webpage="index" alt=""/>
+    <file name="grandes affichesok22.jpg" crc="524661912" seo="true" ref="irma-posters">
+      <caption webpage="irma-posters" alt=""/>
     </file>
-    <file name="édition_1_montfortquemin copie_web-u2187-fr.jpg" crc="3962479744" ref="index"/>
-    <file name="édition_1_montfortquemin copie_web-u2187-fr2.jpg" crc="3782660644" ref="index"/>
-    <file name="édition_1_montfortquemin copie_web-u2187-fr3.jpg" crc="32259155" ref="index"/>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="bezalel.css" crc="326151834" ref="phone>bezalel"/>
-      <file name="nomq_bezalel.css" crc="491281369" ref="phone>bezalel"/>
-      <file name="indexx.css" crc="387095472" ref="phone>indexx"/>
-      <file name="nomq_indexx.css" crc="4227005366" ref="phone>indexx"/>
-      <file name="irma-poster.css" crc="4079915300" ref="phone>irma-poster"/>
-      <file name="nomq_irma-poster.css" crc="299872318" ref="phone>irma-poster"/>
-      <file name="index.css" crc="488918524" ref="phone>index"/>
-      <file name="nomq_index.css" crc="298009589" ref="phone>index"/>
-      <file name="l-inventaire-de-l-invention.css" crc="3853754749" ref="phone>l-inventaire-de-l-invention"/>
-      <file name="nomq_l-inventaire-de-l-invention.css" crc="129880753" ref="phone>l-inventaire-de-l-invention"/>
-      <file name="about.css" crc="33578659" ref="phone>about"/>
-      <file name="nomq_about.css" crc="370053703" ref="phone>about"/>
-      <file name="iefonts_about.css" crc="3929905688" ref="phone>about"/>
       <file name="la-revue-arts-et-m_tiers-graphiques.css" crc="3814827463" ref="phone>la-revue-arts-et-métiers-graphiques"/>
       <file name="nomq_la-revue-arts-et-m_tiers-graphiques.css" crc="20913315" ref="phone>la-revue-arts-et-métiers-graphiques"/>
+      <file name="index.css" crc="488918524" ref="phone>index"/>
+      <file name="nomq_index.css" crc="298009589" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="3929905688" ref="phone>index"/>
+      <file name="bezalel.css" crc="326151834" ref="phone>bezalel"/>
+      <file name="nomq_bezalel.css" crc="491281369" ref="phone>bezalel"/>
       <file name="mem_que.css" crc="3838599215" ref="phone>mem.que"/>
       <file name="nomq_mem_que.css" crc="4120163815" ref="phone>mem.que"/>
       <file name="iefonts_mem_que.css" crc="3929905688" ref="phone>mem.que"/>
@@ -1534,42 +1273,50 @@
       <file name="nomq_devoir-de-m_moire.css" crc="4046988945" ref="phone>devoir-de-mémoire"/>
       <file name="irma.css" crc="150775165" ref="phone>irma"/>
       <file name="nomq_irma.css" crc="51144964" ref="phone>irma"/>
+      <file name="indexx.css" crc="387095472" ref="phone>indexx"/>
+      <file name="nomq_indexx.css" crc="4227005366" ref="phone>indexx"/>
       <file name="silkscreen-on-glass.css" crc="533303011" ref="phone>silkscreen-on-glass"/>
       <file name="nomq_silkscreen-on-glass.css" crc="3847171010" ref="phone>silkscreen-on-glass"/>
+      <file name="irma-poster.css" crc="4079915300" ref="phone>irma-poster"/>
+      <file name="nomq_irma-poster.css" crc="299872318" ref="phone>irma-poster"/>
+      <file name="if-other_-please-specify.css" crc="41489342" ref="phone>if-other,-please-specify"/>
+      <file name="nomq_if-other_-please-specify.css" crc="3808414382" ref="phone>if-other,-please-specify"/>
+      <file name="l-inventaire-de-l-invention.css" crc="3853754749" ref="phone>l-inventaire-de-l-invention"/>
+      <file name="nomq_l-inventaire-de-l-invention.css" crc="129880753" ref="phone>l-inventaire-de-l-invention"/>
+      <file name="about.css" crc="33578659" ref="phone>about"/>
+      <file name="nomq_about.css" crc="370053703" ref="phone>about"/>
+      <file name="iefonts_about.css" crc="3929905688" ref="phone>about"/>
       <file name="playurban.css" crc="3885018258" ref="phone>playurban"/>
       <file name="nomq_playurban.css" crc="3812373973" ref="phone>playurban"/>
       <file name="iefonts_playurban.css" crc="3929905688" ref="phone>playurban"/>
-      <file name="if-other_-please-specify.css" crc="41489342" ref="phone>if-other,-please-specify"/>
-      <file name="nomq_if-other_-please-specify.css" crc="3808414382" ref="phone>if-other,-please-specify"/>
-      <file name="iefonts_index.css" crc="3929905688" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="4062060423" seo="true" mt="1590057012447" redirect="true"/>
-    <file name="bezalel.html" crc="57660660" seo="true" mt="1590053037126" redirect="true"/>
-    <file name="indexx.html" crc="357816155" seo="true" mt="1590052878797" redirect="true"/>
-    <file name="l-inventaire-de-l-invention.html" crc="278778516" seo="true" mt="1590055310065" redirect="true"/>
-    <file name="irma-poster.html" crc="328878558" seo="true" mt="1590055260048" redirect="true"/>
-    <file name="playurban.html" crc="372179265" seo="true" mt="1590055346853" redirect="true"/>
-    <file name="la-revue-arts-et-métiers-graphiques.html" crc="405087925" seo="true" mt="1590055357896" redirect="true"/>
-    <file name="mem.que.html" crc="57000332" seo="true" mt="1590055361525" redirect="true"/>
-    <file name="eta-19.html" crc="4201922817" seo="true" mt="1590055369822" redirect="true"/>
-    <file name="devoir-de-mémoire.html" crc="23860655" seo="true" mt="1590055380395" redirect="true"/>
-    <file name="irma.html" crc="83826041" seo="true" mt="1590055385185" redirect="true"/>
-    <file name="silkscreen-on-glass.html" crc="347516098" seo="true" mt="1590055397617" redirect="true"/>
-    <file name="about.html" crc="4066109994" seo="true" mt="1590056848688" redirect="true"/>
     <file name="if-other,-please-specify.html" crc="287071014" seo="true" mt="1590057012430" redirect="true"/>
+    <file name="playurban.html" crc="372179265" seo="true" mt="1590055346853" redirect="true"/>
+    <file name="la-revue-arts-et-métiers-graphiques.html" crc="4080155024" seo="true" mt="1590055357896" redirect="true"/>
+    <file name="mem.que.html" crc="57000332" seo="true" mt="1590055361525" redirect="true"/>
+    <file name="bezalel.html" crc="57660660" seo="true" mt="1590053037126" redirect="true"/>
+    <file name="eta-19.html" crc="3936464688" seo="true" mt="1590055369822" redirect="true"/>
+    <file name="devoir-de-mémoire.html" crc="23860655" seo="true" mt="1590055380395" redirect="true"/>
+    <file name="irma.html" crc="3980938116" seo="true" mt="1590055385185" redirect="true"/>
+    <file name="silkscreen-on-glass.html" crc="347516098" seo="true" mt="1590055397617" redirect="true"/>
+    <file name="indexx.html" crc="357816155" seo="true" mt="1590052878797" redirect="true"/>
+    <file name="l-inventaire-de-l-invention.html" crc="3826419444" seo="true" mt="1590055310065" redirect="true"/>
+    <file name="irma-poster.html" crc="328878558" seo="true" mt="1590055260048" redirect="true"/>
+    <file name="index.html" crc="4062060423" seo="true" mt="1590057012447" redirect="true"/>
+    <file name="about.html" crc="4066109994" seo="true" mt="1590056848688" redirect="true"/>
   </folder>
-  <file name="index.html" crc="3927865885" seo="true" mt="1590057012444" redirect="true"/>
-  <file name="bezalel.html" crc="484694386" seo="true" redirect="true" mt="1590056848686"/>
-  <file name="indexx.html" crc="194736904" seo="true" mt="1590056848668" redirect="true"/>
-  <file name="l-inventaire-de-l-invention.html" crc="50251671" seo="true" mt="1590056848676" redirect="true"/>
-  <file name="playurban.html" crc="182284920" seo="true" mt="1590056848695" redirect="true"/>
+  <file name="index.html" crc="4216023148" seo="true" mt="1590057012444" redirect="true"/>
+  <file name="playurban.html" crc="160046397" seo="true" mt="1590056848695" redirect="true"/>
   <file name="about.html" crc="253384992" seo="true" mt="1590056848680" redirect="true"/>
   <file name="irma.html" crc="4091096811" seo="true" mt="1590056848678" redirect="true"/>
-  <file name="eta-19.html" crc="242335819" seo="true" mt="1590056848684" redirect="true"/>
+  <file name="eta-19.html" crc="3952382700" seo="true" mt="1590056848684" redirect="true"/>
   <file name="mem.que.html" crc="529760664" seo="true" mt="1590056848692" redirect="true"/>
   <file name="la-revue-arts-et-métiers-graphiques.html" crc="4191837765" seo="true" mt="1590056848702" redirect="true"/>
+  <file name="if-other-please-specify.html" crc="243014956" seo="true" mt="1590056848750" redirect="true"/>
   <file name="devoir-de-mémoire.html" crc="3851192940" seo="true" mt="1590056848682" redirect="true"/>
   <file name="silkscreen-on-glass.html" crc="245742062" seo="true" mt="1590056848674" redirect="true"/>
-  <file name="irma-posters.html" crc="4276227690" seo="true" mt="1590056848690" redirect="true"/>
-  <file name="if-other-please-specify.html" crc="243014956" seo="true" mt="1590056848750" redirect="true"/>
+  <file name="bezalel.html" crc="484694386" seo="true" mt="1590056848686" redirect="true"/>
+  <file name="indexx.html" crc="194736904" seo="true" mt="1590056848668" redirect="true"/>
+  <file name="l-inventaire-de-l-invention.html" crc="120923230" seo="true" mt="1590056848676" redirect="true"/>
+  <file name="irma-posters.html" crc="368483725" seo="true" mt="1590056848690" redirect="true"/>
 </manifest>
