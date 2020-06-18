@@ -1,15 +1,14 @@
-<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ambrequemin.com" resolutions="1x" timestamp="1592474782532">
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ambrequemin.com" resolutions="1x" timestamp="1592474954089">
   <folder name="css">
     <file name="site_global.css" crc="213321574"/>
     <file name="master_a-gabarit.css" crc="3824530138" ref="indexx:irma-posters:l-inventaire-de-l-invention:devoir-de-mémoire:index:silkscreen-on-glass:about:bezalel:eta-19:mem.que:irma:la-revue-arts-et-métiers-graphiques:if-other,-please-specify:play--urban"/>
-    <file name="nomq_preview_master_a-gabarit.css" crc="3824530138" ref="indexx:irma-posters:l-inventaire-de-l-invention:devoir-de-mémoire:index:silkscreen-on-glass:about:bezalel:eta-19:mem.que:irma:la-revue-arts-et-métiers-graphiques:if-other,-please-specify:play--urban"/>
+    <file name="nomq_preview_master_a-gabarit.css" crc="3824530138" ref="indexx:irma-posters:l-inventaire-de-l-invention:devoir-de-mémoire:silkscreen-on-glass:about:bezalel:eta-19:mem.que:irma:la-revue-arts-et-métiers-graphiques:if-other,-please-specify:play--urban"/>
     <file name="indexx.css" crc="3873304661" ref="indexx"/>
     <file name="irma-posters.css" crc="4047288275" ref="irma-posters"/>
     <file name="l-inventaire-de-l-invention.css" crc="4236770815" ref="l-inventaire-de-l-invention"/>
     <file name="devoir-de-m_moire.css" crc="3881103051" ref="devoir-de-mémoire"/>
-    <file name="index.css" crc="3832994856" ref="index"/>
-    <file name="nomq_index.css" crc="385911406" ref="index"/>
-    <file name="iefonts_index.css" crc="3929905688" ref="index"/>
+    <file name="index.css" crc="4236853400" ref="index"/>
+    <file name="iefonts_index.css" crc="4041189900" ref="index"/>
     <file name="silkscreen-on-glass.css" crc="4202533268" ref="silkscreen-on-glass"/>
     <file name="about.css" crc="3993042838" ref="about"/>
     <file name="nomq_about.css" crc="218199742" ref="about"/>
@@ -31,7 +30,7 @@
     <file name="whatinput.js" crc="86476730" ref="phone>if-other,-please-specify:phone>la-revue-arts-et-métiers-graphiques:phone>mem.que:phone>bezalel:phone>eta-19:phone>devoir-de-mémoire:phone>irma:phone>silkscreen-on-glass:phone>l-inventaire-de-l-invention:phone>index:phone>about:index:about:irma:eta-19:mem.que:la-revue-arts-et-métiers-graphiques:devoir-de-mémoire:silkscreen-on-glass:bezalel:indexx:l-inventaire-de-l-invention:irma-posters:play--urban:if-other,-please-specify:phone>play--urban:phone>index1:phone>irma-posters"/>
     <file name="museconfig.js" crc="474374037" ref="phone>if-other,-please-specify:phone>la-revue-arts-et-métiers-graphiques:phone>mem.que:phone>bezalel:phone>eta-19:phone>devoir-de-mémoire:phone>irma:phone>silkscreen-on-glass:phone>l-inventaire-de-l-invention:phone>index:phone>about:index:about:irma:eta-19:mem.que:la-revue-arts-et-métiers-graphiques:devoir-de-mémoire:silkscreen-on-glass:bezalel:indexx:l-inventaire-de-l-invention:irma-posters:play--urban:if-other,-please-specify:phone>play--urban:phone>index1:phone>irma-posters"/>
     <file name="jquery.watch.js" crc="460461809" ref="phone>if-other,-please-specify:phone>la-revue-arts-et-métiers-graphiques:phone>mem.que:phone>bezalel:phone>eta-19:phone>devoir-de-mémoire:phone>irma:phone>silkscreen-on-glass:phone>l-inventaire-de-l-invention:phone>index:phone>about:phone>play--urban:phone>index1:phone>irma-posters"/>
-    <file name="jquery.museresponsive.js" crc="4055310269" ref="phone>if-other,-please-specify:phone>la-revue-arts-et-métiers-graphiques:phone>mem.que:phone>bezalel:phone>eta-19:phone>devoir-de-mémoire:phone>irma:phone>silkscreen-on-glass:phone>l-inventaire-de-l-invention:phone>index:phone>about:index:about:phone>play--urban:phone>index1:phone>irma-posters"/>
+    <file name="jquery.museresponsive.js" crc="4055310269" ref="phone>if-other,-please-specify:phone>la-revue-arts-et-métiers-graphiques:phone>mem.que:phone>bezalel:phone>eta-19:phone>devoir-de-mémoire:phone>irma:phone>silkscreen-on-glass:phone>l-inventaire-de-l-invention:phone>index:phone>about:about:phone>play--urban:phone>index1:phone>irma-posters"/>
     <file name="require.js" crc="3951022091" ref="phone>if-other,-please-specify:phone>la-revue-arts-et-métiers-graphiques:phone>mem.que:phone>bezalel:phone>eta-19:phone>devoir-de-mémoire:phone>irma:phone>silkscreen-on-glass:phone>l-inventaire-de-l-invention:phone>index:phone>about:index:about:irma:eta-19:mem.que:la-revue-arts-et-métiers-graphiques:devoir-de-mémoire:silkscreen-on-glass:bezalel:indexx:l-inventaire-de-l-invention:irma-posters:play--urban:if-other,-please-specify:phone>play--urban:phone>index1:phone>irma-posters"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="phone>index:index"/>
     <file name="webpro.js" crc="4143865194" ref="irma:eta-19:mem.que:la-revue-arts-et-métiers-graphiques:devoir-de-mémoire:silkscreen-on-glass:bezalel:indexx:l-inventaire-de-l-invention:irma-posters:play--urban:if-other,-please-specify"/>
@@ -67,7 +66,7 @@
     <file name="img_20181010_110100_178303x303.jpg" crc="4125693395" seo="true" ref="phone>if-other,-please-specify">
       <caption webpage="if-other,-please-specify" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="phone>if-other,-please-specify:phone>la-revue-arts-et-métiers-graphiques:phone>mem.que:phone>bezalel:phone>eta-19:phone>devoir-de-mémoire:phone>irma:phone>silkscreen-on-glass:phone>l-inventaire-de-l-invention:phone>index:phone>about:index:about:irma:eta-19:mem.que:la-revue-arts-et-métiers-graphiques:devoir-de-mémoire:silkscreen-on-glass:bezalel:indexx:l-inventaire-de-l-invention:irma-posters:play--urban:if-other,-please-specify:phone>play--urban:phone>index1:phone>irma-posters"/>
+    <file name="blank.gif" crc="4208392903" ref="phone>if-other,-please-specify:phone>la-revue-arts-et-métiers-graphiques:phone>mem.que:phone>bezalel:phone>eta-19:phone>devoir-de-mémoire:phone>irma:phone>silkscreen-on-glass:phone>l-inventaire-de-l-invention:phone>index:phone>about:about:irma:eta-19:mem.que:la-revue-arts-et-métiers-graphiques:devoir-de-mémoire:silkscreen-on-glass:bezalel:indexx:l-inventaire-de-l-invention:irma-posters:play--urban:if-other,-please-specify:phone>play--urban:phone>index1:phone>irma-posters"/>
     <file name="ambre016 copie-crop-u16167.jpg" crc="268141230" seo="true" ref="phone>play--urban">
       <caption webpage="play--urban" alt=""/>
       <caption webpage="playurban" alt=""/>
@@ -1017,28 +1016,6 @@
     <file name="a7 copie.jpg" crc="4222231005" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="ddm-u3989-fr.jpg" crc="4282920477" ref="index"/>
-    <file name="1_1-u3989-r-fr.jpg" crc="47850983" ref="index"/>
-    <file name="bezalel-u5101-fr.jpg" crc="4191064109" ref="index"/>
-    <file name="ambre037 copie-u5101-r-fr.jpg" crc="342150077" ref="index"/>
-    <file name="édition_1_montfortquemin copie_web-u2187-fr.jpg" crc="4178691441" ref="index"/>
-    <file name="édition_1_montfortquemin _web-u2187-r-fr.jpg" crc="66949790" ref="index"/>
-    <file name="eta copie-u4226-fr.jpg" crc="4252375507" ref="index"/>
-    <file name="eta-u4226-r-fr.jpg" crc="4028361015" ref="index"/>
-    <file name="affiches_1_montfortquemin copie-u2188-fr.jpg" crc="278290053" ref="index"/>
-    <file name="affiches_1_montfortquemin-u2188-r-fr.jpg" crc="4009794603" ref="index"/>
-    <file name="play urban -u3945-fr.jpg" crc="385523824" ref="index"/>
-    <file name="ambre016 copie-u3945-r-fr.jpg" crc="116160388" ref="index"/>
-    <file name="verre copie-u5460-fr.jpg" crc="4020665581" ref="index"/>
-    <file name="verre-u5460-r-fr.jpg" crc="499229529" ref="index"/>
-    <file name="index-u5073-fr.jpg" crc="241954804" ref="index"/>
-    <file name="6-u5073-r-fr.jpg" crc="384191749" ref="index"/>
-    <file name="amg-u4343-fr.jpg" crc="49517355" ref="index"/>
-    <file name="2-u4343-r-fr.jpg" crc="16383880" ref="index"/>
-    <file name="couv copie-u4213-fr.jpg" crc="115381674" ref="index"/>
-    <file name="couv-u4213-r-fr.jpg" crc="4194640173" ref="index"/>
-    <file name="affiche okbook copie2 copie-u2393-fr.jpg" crc="484030178" ref="index"/>
-    <file name="affiche okbook copie2-u2393-r-fr.jpg" crc="433412166" ref="index"/>
     <file name="ambre016 copie2.jpg" crc="4126991876" seo="true" ref="play--urban">
       <caption webpage="play--urban" alt=""/>
       <caption webpage="playurban" alt=""/>
@@ -1279,9 +1256,8 @@
     </file>
     <file name="svg-collé-465787-x-238.svg" crc="70701012" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
-    <file name="svg collé 465787 x 238_poster_.png" crc="4053544054" ref="index"/>
+    <file name="svg collé 465787 x 238_poster_.png" crc="4063582265" ref="index"/>
   </folder>
   <folder name="phone">
     <folder name="css">
@@ -1333,7 +1309,7 @@
     <file name="index1.html" crc="4077431519" seo="true" mt="1590152110525" redirect="true"/>
     <file name="irma-posters.html" crc="95735313" seo="true" mt="1590152110578" redirect="true"/>
   </folder>
-  <file name="index.html" crc="231552724" seo="true" mt="1592474760078" redirect="true"/>
+  <file name="index.html" crc="474898643" seo="true" mt="1592474935991" redirect="true"/>
   <file name="about.html" crc="3903483248" seo="true" mt="1591290107991" redirect="true"/>
   <file name="irma.html" crc="3941099428" seo="true" mt="1590152110460" redirect="true"/>
   <file name="eta-19.html" crc="282718435" seo="true" mt="1590152110450" redirect="true"/>
