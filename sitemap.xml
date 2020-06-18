@@ -2,12 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://ambrequemin.com/index.html</loc>
-    <lastmod>2020-05-22</lastmod>
+    <lastmod>2020-06-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://ambrequemin.com/phone/index.html"/>
     <image:image>
-      <image:loc>http://ambrequemin.com/images/%C3%A9dition_1_montfortquemin%20_web.jpg</image:loc>
+      <image:loc>http://ambrequemin.com/images/svg-coll%C3%A9-465787-x-238.svg</image:loc>
     </image:image>
   </url>
   <url>
@@ -31,7 +31,7 @@
   </url>
   <url>
     <loc>http://ambrequemin.com/about.html</loc>
-    <lastmod>2020-05-22</lastmod>
+    <lastmod>2020-06-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://ambrequemin.com/phone/about.html"/>
@@ -42,9 +42,6 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://ambrequemin.com/phone/irma.html"/>
-    <image:image>
-      <image:loc>http://ambrequemin.com/images/%C3%A9dition_1_montfortquemin%20_web.jpg</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://ambrequemin.com/images/3%20irma%20copie-crop-u5796.png</image:loc>
     </image:image>
@@ -143,7 +140,7 @@
   </url>
   <url>
     <loc>http://ambrequemin.com/la-revue-arts-et-m%C3%A9tiers-graphiques.html</loc>
-    <lastmod>2020-05-22</lastmod>
+    <lastmod>2020-05-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://ambrequemin.com/phone/la-revue-arts-et-métiers-graphiques.html"/>
@@ -245,7 +242,7 @@
   </url>
   <url>
     <loc>http://ambrequemin.com/l-inventaire-de-l-invention.html</loc>
-    <lastmod>2020-05-22</lastmod>
+    <lastmod>2020-05-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://ambrequemin.com/phone/l-inventaire-de-l-invention.html"/>
@@ -323,7 +320,7 @@
   </url>
   <url>
     <loc>http://ambrequemin.com/if-other,-please-specify.html</loc>
-    <lastmod>2020-05-22</lastmod>
+    <lastmod>2020-06-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://ambrequemin.com/phone/if-other,-please-specify.html"/>
