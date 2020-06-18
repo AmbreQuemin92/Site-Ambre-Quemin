@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ambrequemin.com" resolutions="1x" timestamp="1592474954089">
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ambrequemin.com" resolutions="1x" timestamp="1592475322700">
   <folder name="css">
     <file name="site_global.css" crc="213321574"/>
     <file name="master_a-gabarit.css" crc="3824530138" ref="indexx:irma-posters:l-inventaire-de-l-invention:devoir-de-mémoire:index:silkscreen-on-glass:about:bezalel:eta-19:mem.que:irma:la-revue-arts-et-métiers-graphiques:if-other,-please-specify:play--urban"/>
@@ -7,7 +7,7 @@
     <file name="irma-posters.css" crc="4047288275" ref="irma-posters"/>
     <file name="l-inventaire-de-l-invention.css" crc="4236770815" ref="l-inventaire-de-l-invention"/>
     <file name="devoir-de-m_moire.css" crc="3881103051" ref="devoir-de-mémoire"/>
-    <file name="index.css" crc="4236853400" ref="index"/>
+    <file name="index.css" crc="290657563" ref="index"/>
     <file name="iefonts_index.css" crc="4041189900" ref="index"/>
     <file name="silkscreen-on-glass.css" crc="4202533268" ref="silkscreen-on-glass"/>
     <file name="about.css" crc="3993042838" ref="about"/>
@@ -1309,7 +1309,7 @@
     <file name="index1.html" crc="4077431519" seo="true" mt="1590152110525" redirect="true"/>
     <file name="irma-posters.html" crc="95735313" seo="true" mt="1590152110578" redirect="true"/>
   </folder>
-  <file name="index.html" crc="474898643" seo="true" mt="1592474935991" redirect="true"/>
+  <file name="index.html" crc="408166715" seo="true" mt="1592475205774" redirect="true"/>
   <file name="about.html" crc="3903483248" seo="true" mt="1591290107991" redirect="true"/>
   <file name="irma.html" crc="3941099428" seo="true" mt="1590152110460" redirect="true"/>
   <file name="eta-19.html" crc="282718435" seo="true" mt="1590152110450" redirect="true"/>
