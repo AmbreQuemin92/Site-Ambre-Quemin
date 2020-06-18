@@ -7,26 +7,57 @@
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://ambrequemin.com/phone/index.html"/>
     <image:image>
+      <image:loc>http://ambrequemin.com/images/%C3%A9dition_1_montfortquemin%20_web.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://ambrequemin.com/images/svg-coll%C3%A9-465787-x-238.svg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://ambrequemin.com/devoir-de-m%C3%A9moire.html</loc>
+    <loc>http://ambrequemin.com/la-revue-arts-et-m%C3%A9tiers-graphiques.html</loc>
+    <lastmod>2020-05-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://ambrequemin.com/phone/la-revue-arts-et-métiers-graphiques.html"/>
+    <image:image>
+      <image:loc>http://ambrequemin.com/images/compo_affiche_amge.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ambrequemin.com/images/22.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ambrequemin.com/images/7.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ambrequemin.com/images/5-crop-u8521.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://ambrequemin.com/play--urban.html</loc>
     <lastmod>2020-05-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://ambrequemin.com/phone/devoir-de-mémoire.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://ambrequemin.com/phone/play--urban.html"/>
     <image:image>
-      <image:loc>http://ambrequemin.com/images/ddm%20image%201-crop-u7650.jpg</image:loc>
+      <image:loc>http://ambrequemin.com/images/ambre016%20copie2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://ambrequemin.com/images/ddm%20affiche%202.jpg</image:loc>
+      <image:loc>http://ambrequemin.com/images/ambre008%20copie%20copie2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://ambrequemin.com/images/ddm6.jpg</image:loc>
+      <image:loc>http://ambrequemin.com/images/ambre007%20copie%20copie.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://ambrequemin.com/images/4.jpg</image:loc>
+      <image:loc>http://ambrequemin.com/images/ambre006%20copie%20copie.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ambrequemin.com/images/ambre012%20copie%20copie.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ambrequemin.com/images/ambre011%20copie22.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ambrequemin.com/images/ambre018%20copie.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -42,6 +73,9 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://ambrequemin.com/phone/irma.html"/>
+    <image:image>
+      <image:loc>http://ambrequemin.com/images/%C3%A9dition_1_montfortquemin%20_web.jpg</image:loc>
+    </image:image>
     <image:image>
       <image:loc>http://ambrequemin.com/images/3%20irma%20copie-crop-u5796.png</image:loc>
     </image:image>
@@ -139,29 +173,45 @@
     </image:image>
   </url>
   <url>
-    <loc>http://ambrequemin.com/la-revue-arts-et-m%C3%A9tiers-graphiques.html</loc>
-    <lastmod>2020-05-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://ambrequemin.com/phone/la-revue-arts-et-métiers-graphiques.html"/>
-    <image:image>
-      <image:loc>http://ambrequemin.com/images/compo_affiche_amge.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ambrequemin.com/images/22.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ambrequemin.com/images/7.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ambrequemin.com/images/5-crop-u8521.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
     <loc>http://ambrequemin.com/phone/index1.html</loc>
     <lastmod>2020-05-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://ambrequemin.com/if-other,-please-specify.html</loc>
+    <lastmod>2020-06-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://ambrequemin.com/phone/if-other,-please-specify.html"/>
+    <image:image>
+      <image:loc>http://ambrequemin.com/images/affiche%20ips%20sans%20fond.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ambrequemin.com/images/ambre013%20copie.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ambrequemin.com/images/img_20181010_110100_178.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://ambrequemin.com/devoir-de-m%C3%A9moire.html</loc>
+    <lastmod>2020-05-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://ambrequemin.com/phone/devoir-de-mémoire.html"/>
+    <image:image>
+      <image:loc>http://ambrequemin.com/images/ddm%20image%201-crop-u7650.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ambrequemin.com/images/ddm%20affiche%202.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ambrequemin.com/images/ddm6.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ambrequemin.com/images/4.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://ambrequemin.com/silkscreen-on-glass.html</loc>
@@ -278,60 +328,16 @@
       <image:loc>http://ambrequemin.com/images/grandes%20affichesok5.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://ambrequemin.com/images/grandes%20affiches2.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://ambrequemin.com/images/affiches_1_montfortquemin3.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://ambrequemin.com/images/grandes%20affichesok42.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://ambrequemin.com/images/grandes%20affiches2.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://ambrequemin.com/images/grandes%20affichesok22.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://ambrequemin.com/play--urban.html</loc>
-    <lastmod>2020-05-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://ambrequemin.com/phone/play--urban.html"/>
-    <image:image>
-      <image:loc>http://ambrequemin.com/images/ambre016%20copie2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ambrequemin.com/images/ambre007%20copie%20copie.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ambrequemin.com/images/ambre006%20copie%20copie.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ambrequemin.com/images/ambre012%20copie%20copie.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ambrequemin.com/images/ambre018%20copie.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ambrequemin.com/images/ambre008%20copie%20copie2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ambrequemin.com/images/ambre011%20copie22.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://ambrequemin.com/if-other,-please-specify.html</loc>
-    <lastmod>2020-06-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://ambrequemin.com/phone/if-other,-please-specify.html"/>
-    <image:image>
-      <image:loc>http://ambrequemin.com/images/affiche%20ips%20sans%20fond.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ambrequemin.com/images/ambre013%20copie.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ambrequemin.com/images/img_20181010_110100_178.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
