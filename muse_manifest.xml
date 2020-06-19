@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ambrequemin.com" resolutions="1x" timestamp="1592487512464">
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ambrequemin.com" resolutions="1x" timestamp="1592568355734">
   <folder name="css">
     <file name="site_global.css" crc="213321574"/>
     <file name="master_a-gabarit.css" crc="3824530138" ref="irma-posters:eta-19:irma:about:mem.que:if-other,-please-specify:devoir-de-mémoire:bezalel:la-revue-arts-et-métiers-graphiques:silkscreen-on-glass:index:indexx:l-inventaire-de-l-invention:play--urban"/>
@@ -17,8 +17,8 @@
     <file name="la-revue-arts-et-m_tiers-graphiques.css" crc="3986844216" ref="la-revue-arts-et-métiers-graphiques"/>
     <file name="iefonts_la-revue-arts-et-m_tiers-graphiques.css" crc="4098666669" ref="la-revue-arts-et-métiers-graphiques"/>
     <file name="silkscreen-on-glass.css" crc="415833778" ref="silkscreen-on-glass"/>
-    <file name="index.css" crc="3951407504" ref="index"/>
-    <file name="nomq_index.css" crc="249118187" ref="index"/>
+    <file name="index.css" crc="428632199" ref="index"/>
+    <file name="nomq_index.css" crc="4155253129" ref="index"/>
     <file name="iefonts_index.css" crc="3929905688" ref="index"/>
     <file name="indexx.css" crc="402383330" ref="indexx"/>
     <file name="l-inventaire-de-l-invention.css" crc="4236770815" ref="l-inventaire-de-l-invention"/>
@@ -750,7 +750,8 @@
     <file name="12-crop-u257923.jpg" crc="4035992740" seo="true" ref="phone>l-inventaire-de-l-invention">
       <caption webpage="l-inventaire-de-l-invention" alt=""/>
     </file>
-    <file name="affiches_1_montfortquemin.jpg" crc="4200178427" seo="true" ref="phone>irma-posters">
+    <file name="affiches_1_montfortquemin.jpg" crc="311644997" ref="phone>irma-posters:index">
+      <caption webpage="index" alt=""/>
       <caption webpage="irma-posters" alt=""/>
     </file>
     <file name="grandes affichesok2.jpg" crc="4181390706" seo="true" ref="phone>irma-posters">
@@ -882,7 +883,7 @@
     <file name="édition_1_montfortquemin copie_web.jpg" crc="433725179" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="édition_1_montfortquemin _web.jpg" crc="173487691" seo="true" ref="index:irma">
+    <file name="édition_1_montfortquemin _web.jpg" crc="173487691" ref="index:irma">
       <caption webpage="index" alt=""/>
       <caption webpage="irma" alt=""/>
     </file>
@@ -894,9 +895,6 @@
     </file>
     <file name="svg collé 465787 x 238_poster_.png" crc="4053544054" ref="index"/>
     <file name="affiches_1_montfortquemin copie.jpg" crc="3980441473" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="affiches_1_montfortquemin2.jpg" crc="311644997" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="eta copie.jpg" crc="4138629561" ref="index">
@@ -1309,7 +1307,7 @@
     <file name="index.html" crc="213680548" seo="true" mt="1590241325089" redirect="true"/>
     <file name="about.html" crc="4055883283" seo="true" mt="1590152110614" redirect="true"/>
   </folder>
-  <file name="index.html" crc="112346948" seo="true" mt="1592486977410" redirect="true"/>
+  <file name="index.html" crc="274104041" seo="true" mt="1592568251263" redirect="true"/>
   <file name="play--urban.html" crc="4223111803" seo="true" mt="1590152110453" redirect="true"/>
   <file name="about.html" crc="3903483248" seo="true" mt="1591290107991" redirect="true"/>
   <file name="irma.html" crc="122769491" seo="true" mt="1590152110460" redirect="true"/>
