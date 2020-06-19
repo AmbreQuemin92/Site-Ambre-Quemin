@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ambrequemin.com" resolutions="1x" timestamp="1592568355734">
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ambrequemin.com" resolutions="1x" timestamp="1592568588969">
   <folder name="css">
     <file name="site_global.css" crc="213321574"/>
     <file name="master_a-gabarit.css" crc="3824530138" ref="irma-posters:eta-19:irma:about:mem.que:if-other,-please-specify:devoir-de-mémoire:bezalel:la-revue-arts-et-métiers-graphiques:silkscreen-on-glass:index:indexx:l-inventaire-de-l-invention:play--urban"/>
@@ -1307,7 +1307,7 @@
     <file name="index.html" crc="213680548" seo="true" mt="1590241325089" redirect="true"/>
     <file name="about.html" crc="4055883283" seo="true" mt="1590152110614" redirect="true"/>
   </folder>
-  <file name="index.html" crc="274104041" seo="true" mt="1592568251263" redirect="true"/>
+  <file name="index.html" crc="274104041" seo="true" mt="1592568547758" redirect="true"/>
   <file name="play--urban.html" crc="4223111803" seo="true" mt="1590152110453" redirect="true"/>
   <file name="about.html" crc="3903483248" seo="true" mt="1591290107991" redirect="true"/>
   <file name="irma.html" crc="122769491" seo="true" mt="1590152110460" redirect="true"/>
