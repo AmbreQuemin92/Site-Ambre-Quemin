@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ambrequemin.com" resolutions="1x" timestamp="1592819904508">
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ambrequemin.com" resolutions="1x" timestamp="1592833752774">
   <folder name="css">
     <file name="site_global.css" crc="4146688978"/>
     <file name="master_a-gabarit.css" crc="3824530138" ref="indexx:la-revue-arts-et-métiers-graphiques:irma-posters:index:eta-19:play--urban:irma:if-other,-please-specify:devoir-de-mémoire:about:bezalel:silkscreen-on-glass:mem.que:l-inventaire-de-l-invention"/>
@@ -7,8 +7,8 @@
     <file name="la-revue-arts-et-m_tiers-graphiques.css" crc="349966861" ref="la-revue-arts-et-métiers-graphiques"/>
     <file name="iefonts_la-revue-arts-et-m_tiers-graphiques.css" crc="4098666669" ref="la-revue-arts-et-métiers-graphiques"/>
     <file name="irma-posters.css" crc="4047288275" ref="irma-posters"/>
-    <file name="index.css" crc="435894145" ref="index"/>
-    <file name="nomq_index.css" crc="43202517" ref="index"/>
+    <file name="index.css" crc="462856718" ref="index"/>
+    <file name="nomq_index.css" crc="447533656" ref="index"/>
     <file name="iefonts_index.css" crc="3929905688" ref="index"/>
     <file name="eta-19.css" crc="440472986" ref="eta-19"/>
     <file name="play--urban.css" crc="494895544" ref="play--urban"/>
@@ -1378,7 +1378,7 @@
     <file name="index.html" crc="194440552" seo="true" mt="1590241325089" redirect="true"/>
     <file name="about.html" crc="4217581834" seo="true" mt="1590152110614" redirect="true"/>
   </folder>
-  <file name="index.html" crc="3780886945" seo="true" mt="1592819842315" redirect="true"/>
+  <file name="index.html" crc="265426400" seo="true" mt="1592833690183" redirect="true"/>
   <file name="play--urban.html" crc="3803853994" seo="true" mt="1590152110453" redirect="true"/>
   <file name="about.html" crc="21666566" seo="true" mt="1591290107991" redirect="true"/>
   <file name="irma.html" crc="3858209599" seo="true" mt="1590152110460" redirect="true"/>
