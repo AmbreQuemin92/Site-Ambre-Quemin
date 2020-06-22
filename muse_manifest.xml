@@ -1,14 +1,14 @@
-<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ambrequemin.com" resolutions="1x" timestamp="1592569726479">
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ambrequemin.com" resolutions="1x" timestamp="1592819904508">
   <folder name="css">
-    <file name="site_global.css" crc="213321574"/>
+    <file name="site_global.css" crc="4146688978"/>
     <file name="master_a-gabarit.css" crc="3824530138" ref="indexx:la-revue-arts-et-métiers-graphiques:irma-posters:index:eta-19:play--urban:irma:if-other,-please-specify:devoir-de-mémoire:about:bezalel:silkscreen-on-glass:mem.que:l-inventaire-de-l-invention"/>
     <file name="nomq_preview_master_a-gabarit.css" crc="3824530138" ref="indexx:la-revue-arts-et-métiers-graphiques:irma-posters:index:eta-19:play--urban:irma:if-other,-please-specify:devoir-de-mémoire:about:bezalel:silkscreen-on-glass:mem.que:l-inventaire-de-l-invention"/>
     <file name="indexx.css" crc="3873304661" ref="indexx"/>
     <file name="la-revue-arts-et-m_tiers-graphiques.css" crc="349966861" ref="la-revue-arts-et-métiers-graphiques"/>
     <file name="iefonts_la-revue-arts-et-m_tiers-graphiques.css" crc="4098666669" ref="la-revue-arts-et-métiers-graphiques"/>
     <file name="irma-posters.css" crc="4047288275" ref="irma-posters"/>
-    <file name="index.css" crc="472213183" ref="index"/>
-    <file name="nomq_index.css" crc="3945419266" ref="index"/>
+    <file name="index.css" crc="435894145" ref="index"/>
+    <file name="nomq_index.css" crc="43202517" ref="index"/>
     <file name="iefonts_index.css" crc="3929905688" ref="index"/>
     <file name="eta-19.css" crc="440472986" ref="eta-19"/>
     <file name="play--urban.css" crc="494895544" ref="play--urban"/>
@@ -752,6 +752,7 @@
     </file>
     <file name="affiches_1_montfortquemin.jpg" crc="311644997" ref="phone>irma-posters:index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="irma-posters" alt=""/>
     </file>
     <file name="grandes affichesok2.jpg" crc="4181390706" seo="true" ref="phone>irma-posters">
@@ -882,8 +883,10 @@
     <file name="favicon.ico" crc="72906745" ref="index"/>
     <file name="édition_1_montfortquemin copie_web.jpg" crc="433725179" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="édition_1_montfortquemin _web.jpg" crc="173487691" ref="index:irma">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="irma" alt=""/>
     </file>
@@ -893,63 +896,86 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="svg collé 465787 x 238_poster_.png" crc="4053544054" ref="index"/>
     <file name="affiches_1_montfortquemin copie.jpg" crc="3980441473" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="eta copie.jpg" crc="4138629561" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="eta.jpg" crc="195717643" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="play urban .jpg" crc="3970660319" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="ambre016 copie.jpg" crc="3770547554" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="ddm.jpg" crc="4106277154" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="1_1.jpg" crc="3949151804" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="bezalel.jpg" crc="248547861" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="ambre037 copie.jpg" crc="3816548957" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="verre copie.jpg" crc="416295680" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="verre.jpg" crc="4200225081" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="index.jpg" crc="3991794131" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="6.jpg" crc="436272786" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="amg.jpg" crc="362420242" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="2.jpg" crc="3952567634" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="couv copie.jpg" crc="4108027250" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="couv.jpg" crc="3785283076" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="affiche okbook copie2 copie.jpg" crc="4258419809" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="affiche okbook copie2.jpg" crc="4101466240" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="linventairedelnvention.jpg" crc="4145733307" ref="index">
@@ -958,76 +984,76 @@
     <file name="a7 copie.jpg" crc="4222231005" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="édition_1_montfortquemin copie_web-u2187-fr.jpg" crc="4178691441" ref="index"/>
-    <file name="édition_1_montfortquemin _web-u2187-r-fr.jpg" crc="66949790" ref="index"/>
-    <file name="eta copie-u4226-fr.jpg" crc="4252375507" ref="index"/>
-    <file name="eta-u4226-r-fr.jpg" crc="4028361015" ref="index"/>
-    <file name="ddm-u3989-fr.jpg" crc="4282920477" ref="index"/>
-    <file name="1_1-u3989-r-fr.jpg" crc="47850983" ref="index"/>
-    <file name="bezalel-u5101-fr.jpg" crc="4191064109" ref="index"/>
-    <file name="ambre037 copie-u5101-r-fr.jpg" crc="342150077" ref="index"/>
-    <file name="affiches_1_montfortquemin copie-u2188-fr.jpg" crc="278290053" ref="index"/>
-    <file name="affiches_1_montfortquemin-u2188-r-fr.jpg" crc="4009794603" ref="index"/>
-    <file name="play urban -u3945-fr.jpg" crc="385523824" ref="index"/>
-    <file name="ambre016 copie-u3945-r-fr.jpg" crc="116160388" ref="index"/>
-    <file name="verre copie-u5460-fr.jpg" crc="4020665581" ref="index"/>
-    <file name="verre-u5460-r-fr.jpg" crc="499229529" ref="index"/>
-    <file name="index-u5073-fr.jpg" crc="241954804" ref="index"/>
-    <file name="6-u5073-r-fr.jpg" crc="384191749" ref="index"/>
-    <file name="amg-u4343-fr.jpg" crc="49517355" ref="index"/>
-    <file name="2-u4343-r-fr.jpg" crc="16383880" ref="index"/>
-    <file name="couv copie-u4213-fr.jpg" crc="115381674" ref="index"/>
-    <file name="couv-u4213-r-fr.jpg" crc="4194640173" ref="index"/>
+    <file name="édition_1_montfortquemin copie_web-u2187-fr.jpg" crc="184056173" ref="index"/>
+    <file name="édition_1_montfortquemin _web-u2187-r-fr.jpg" crc="299800087" ref="index"/>
+    <file name="eta copie-u4226-fr.jpg" crc="3999203357" ref="index"/>
+    <file name="eta-u4226-r-fr.jpg" crc="527758676" ref="index"/>
+    <file name="ddm-u3989-fr.jpg" crc="4204066448" ref="index"/>
+    <file name="1_1-u3989-r-fr.jpg" crc="19831385" ref="index"/>
+    <file name="bezalel-u5101-fr.jpg" crc="3987742037" ref="index"/>
+    <file name="ambre037 copie-u5101-r-fr.jpg" crc="3838715925" ref="index"/>
+    <file name="affiches_1_montfortquemin copie-u2188-fr.jpg" crc="3787527333" ref="index"/>
+    <file name="affiches_1_montfortquemin-u2188-r-fr.jpg" crc="3843788196" ref="index"/>
+    <file name="play urban -u3945-fr.jpg" crc="3819705613" ref="index"/>
+    <file name="ambre016 copie-u3945-r-fr.jpg" crc="4048507530" ref="index"/>
+    <file name="verre copie-u5460-fr.jpg" crc="4080531281" ref="index"/>
+    <file name="verre-u5460-r-fr.jpg" crc="4080358439" ref="index"/>
+    <file name="index-u5073-fr.jpg" crc="295931812" ref="index"/>
+    <file name="6-u5073-r-fr.jpg" crc="4213811735" ref="index"/>
+    <file name="amg-u4343-fr.jpg" crc="375026532" ref="index"/>
+    <file name="2-u4343-r-fr.jpg" crc="90421465" ref="index"/>
+    <file name="couv copie-u4213-fr.jpg" crc="4204741472" ref="index"/>
+    <file name="couv-u4213-r-fr.jpg" crc="4279680227" ref="index"/>
     <file name="affiche okbook copie2 copie-u2393-fr.jpg" crc="484030178" ref="index"/>
     <file name="affiche okbook copie2-u2393-r-fr.jpg" crc="433412166" ref="index"/>
-    <file name="édition_1_montfortquemin copie_web-u2187-fr2.jpg" crc="316519793" ref="index"/>
-    <file name="édition_1_montfortquemin _web-u2187-r-fr2.jpg" crc="4218074198" ref="index"/>
-    <file name="affiches_1_montfortquemin copie-u2188-fr2.jpg" crc="70726885" ref="index"/>
-    <file name="affiches_1_montfortquemin-u2188-r-fr2.jpg" crc="119277924" ref="index"/>
-    <file name="eta copie-u4226-fr2.jpg" crc="3932005686" ref="index"/>
-    <file name="eta-u4226-r-fr2.jpg" crc="468883081" ref="index"/>
-    <file name="couv copie-u4213-fr2.jpg" crc="4015258639" ref="index"/>
-    <file name="couv-u4213-r-fr2.jpg" crc="60676480" ref="index"/>
-    <file name="play urban -u3945-fr2.jpg" crc="3994943151" ref="index"/>
-    <file name="ambre016 copie-u3945-r-fr2.jpg" crc="3919466227" ref="index"/>
-    <file name="ddm-u3989-fr2.jpg" crc="96676938" ref="index"/>
-    <file name="1_1-u3989-r-fr2.jpg" crc="81816488" ref="index"/>
+    <file name="édition_1_montfortquemin copie_web-u2187-fr2.jpg" crc="4178691441" ref="index"/>
+    <file name="édition_1_montfortquemin _web-u2187-r-fr2.jpg" crc="66949790" ref="index"/>
+    <file name="affiches_1_montfortquemin copie-u2188-fr2.jpg" crc="278290053" ref="index"/>
+    <file name="affiches_1_montfortquemin-u2188-r-fr2.jpg" crc="4009794603" ref="index"/>
+    <file name="eta copie-u4226-fr2.jpg" crc="4252375507" ref="index"/>
+    <file name="eta-u4226-r-fr2.jpg" crc="4028361015" ref="index"/>
+    <file name="couv copie-u4213-fr2.jpg" crc="115381674" ref="index"/>
+    <file name="couv-u4213-r-fr2.jpg" crc="4194640173" ref="index"/>
+    <file name="play urban -u3945-fr2.jpg" crc="385523824" ref="index"/>
+    <file name="ambre016 copie-u3945-r-fr2.jpg" crc="116160388" ref="index"/>
+    <file name="ddm-u3989-fr2.jpg" crc="4282920477" ref="index"/>
+    <file name="1_1-u3989-r-fr2.jpg" crc="47850983" ref="index"/>
     <file name="affiche okbook copie2 copie-u2393-fr2.jpg" crc="491413104" ref="index"/>
     <file name="affiche okbook copie2-u2393-r-fr2.jpg" crc="488367469" ref="index"/>
-    <file name="amg-u4343-fr2.jpg" crc="58821011" ref="index"/>
-    <file name="2-u4343-r-fr2.jpg" crc="122894233" ref="index"/>
-    <file name="verre copie-u5460-fr2.jpg" crc="3822233096" ref="index"/>
-    <file name="verre-u5460-r-fr2.jpg" crc="4123134478" ref="index"/>
-    <file name="bezalel-u5101-fr2.jpg" crc="4164157710" ref="index"/>
-    <file name="ambre037 copie-u5101-r-fr2.jpg" crc="4227148421" ref="index"/>
+    <file name="amg-u4343-fr2.jpg" crc="49517355" ref="index"/>
+    <file name="2-u4343-r-fr2.jpg" crc="16383880" ref="index"/>
+    <file name="verre copie-u5460-fr2.jpg" crc="4020665581" ref="index"/>
+    <file name="verre-u5460-r-fr2.jpg" crc="499229529" ref="index"/>
+    <file name="bezalel-u5101-fr2.jpg" crc="4191064109" ref="index"/>
+    <file name="ambre037 copie-u5101-r-fr2.jpg" crc="342150077" ref="index"/>
     <file name="linventairedelnvention-u4013-fr.jpg" crc="4262297185" ref="index"/>
     <file name="a7 copie-u4013-r-fr.jpg" crc="25296316" ref="index"/>
-    <file name="index-u5073-fr2.jpg" crc="3956177977" ref="index"/>
-    <file name="6-u5073-r-fr2.jpg" crc="8003789" ref="index"/>
-    <file name="bezalel-u5101-fr3.jpg" crc="3759902896" ref="index"/>
-    <file name="ambre037 copie-u5101-r-fr3.jpg" crc="260449396" ref="index"/>
-    <file name="édition_1_montfortquemin copie_web-u2187-fr3.jpg" crc="11230491" ref="index"/>
-    <file name="édition_1_montfortquemin _web-u2187-r-fr3.jpg" crc="500719123" ref="index"/>
-    <file name="affiches_1_montfortquemin copie-u2188-fr3.jpg" crc="4138970721" ref="index"/>
-    <file name="affiches_1_montfortquemin-u2188-r-fr3.jpg" crc="3787698190" ref="index"/>
-    <file name="eta copie-u4226-fr3.jpg" crc="3795635270" ref="index"/>
-    <file name="eta-u4226-r-fr3.jpg" crc="3892756061" ref="index"/>
-    <file name="amg-u4343-fr3.jpg" crc="4149958136" ref="index"/>
-    <file name="2-u4343-r-fr3.jpg" crc="3847455909" ref="index"/>
-    <file name="ddm-u3989-fr3.jpg" crc="432793101" ref="index"/>
-    <file name="1_1-u3989-r-fr3.jpg" crc="4063420720" ref="index"/>
-    <file name="couv copie-u4213-fr3.jpg" crc="19354178" ref="index"/>
-    <file name="couv-u4213-r-fr3.jpg" crc="32453980" ref="index"/>
-    <file name="play urban -u3945-fr3.jpg" crc="4225084859" ref="index"/>
-    <file name="ambre016 copie-u3945-r-fr3.jpg" crc="182571298" ref="index"/>
+    <file name="index-u5073-fr2.jpg" crc="241954804" ref="index"/>
+    <file name="6-u5073-r-fr2.jpg" crc="384191749" ref="index"/>
+    <file name="bezalel-u5101-fr3.jpg" crc="4164157710" ref="index"/>
+    <file name="ambre037 copie-u5101-r-fr3.jpg" crc="4227148421" ref="index"/>
+    <file name="édition_1_montfortquemin copie_web-u2187-fr3.jpg" crc="316519793" ref="index"/>
+    <file name="édition_1_montfortquemin _web-u2187-r-fr3.jpg" crc="4218074198" ref="index"/>
+    <file name="affiches_1_montfortquemin copie-u2188-fr3.jpg" crc="70726885" ref="index"/>
+    <file name="affiches_1_montfortquemin-u2188-r-fr3.jpg" crc="119277924" ref="index"/>
+    <file name="eta copie-u4226-fr3.jpg" crc="3932005686" ref="index"/>
+    <file name="eta-u4226-r-fr3.jpg" crc="468883081" ref="index"/>
+    <file name="amg-u4343-fr3.jpg" crc="58821011" ref="index"/>
+    <file name="2-u4343-r-fr3.jpg" crc="122894233" ref="index"/>
+    <file name="ddm-u3989-fr3.jpg" crc="96676938" ref="index"/>
+    <file name="1_1-u3989-r-fr3.jpg" crc="81816488" ref="index"/>
+    <file name="couv copie-u4213-fr3.jpg" crc="4015258639" ref="index"/>
+    <file name="couv-u4213-r-fr3.jpg" crc="60676480" ref="index"/>
+    <file name="play urban -u3945-fr3.jpg" crc="3994943151" ref="index"/>
+    <file name="ambre016 copie-u3945-r-fr3.jpg" crc="3919466227" ref="index"/>
     <file name="affiche okbook copie2 copie-u2393-fr3.jpg" crc="4074151060" ref="index"/>
     <file name="affiche okbook copie2-u2393-r-fr3.jpg" crc="151473138" ref="index"/>
-    <file name="verre copie-u5460-fr3.jpg" crc="360937495" ref="index"/>
-    <file name="verre-u5460-r-fr3.jpg" crc="502950780" ref="index"/>
+    <file name="verre copie-u5460-fr3.jpg" crc="3822233096" ref="index"/>
+    <file name="verre-u5460-r-fr3.jpg" crc="4123134478" ref="index"/>
     <file name="linventairedelnvention-u4013-fr2.jpg" crc="3856134062" ref="index"/>
     <file name="a7 copie-u4013-r-fr2.jpg" crc="4197462898" ref="index"/>
-    <file name="index-u5073-fr3.jpg" crc="434088872" ref="index"/>
-    <file name="6-u5073-r-fr3.jpg" crc="4037619119" ref="index"/>
+    <file name="index-u5073-fr3.jpg" crc="3956177977" ref="index"/>
+    <file name="6-u5073-r-fr3.jpg" crc="8003789" ref="index"/>
     <file name="ambre016 copie2.jpg" crc="4126991876" seo="true" ref="play--urban">
       <caption webpage="play--urban" alt=""/>
     </file>
@@ -1257,30 +1283,50 @@
     <file name="grandes affichesok22.jpg" crc="524661912" seo="true" ref="irma-posters">
       <caption webpage="irma-posters" alt=""/>
     </file>
-    <file name="bezalel-u5101-fr4.jpg" crc="3939566331" ref="index"/>
-    <file name="ambre037 copie-u5101-r-fr4.jpg" crc="26743180" ref="index"/>
-    <file name="édition_1_montfortquemin copie_web-u2187-fr4.jpg" crc="4287443245" ref="index"/>
-    <file name="édition_1_montfortquemin _web-u2187-r-fr4.jpg" crc="390794590" ref="index"/>
-    <file name="affiches_1_montfortquemin copie-u2188-fr4.jpg" crc="334176410" ref="index"/>
-    <file name="affiches_1_montfortquemin-u2188-r-fr4.jpg" crc="401617744" ref="index"/>
-    <file name="eta copie-u4226-fr4.jpg" crc="4245149065" ref="index"/>
-    <file name="eta-u4226-r-fr4.jpg" crc="498724046" ref="index"/>
-    <file name="amg-u4343-fr4.jpg" crc="4241016067" ref="index"/>
-    <file name="2-u4343-r-fr4.jpg" crc="422974888" ref="index"/>
-    <file name="ddm-u3989-fr4.jpg" crc="3866217488" ref="index"/>
-    <file name="1_1-u3989-r-fr4.jpg" crc="141226263" ref="index"/>
-    <file name="couv copie-u4213-fr4.jpg" crc="3934783389" ref="index"/>
-    <file name="couv-u4213-r-fr4.jpg" crc="222389902" ref="index"/>
-    <file name="play urban -u3945-fr4.jpg" crc="4040697530" ref="index"/>
-    <file name="ambre016 copie-u3945-r-fr4.jpg" crc="4095576627" ref="index"/>
+    <file name="bezalel-u5101-fr4.jpg" crc="3759902896" ref="index"/>
+    <file name="ambre037 copie-u5101-r-fr4.jpg" crc="260449396" ref="index"/>
+    <file name="édition_1_montfortquemin copie_web-u2187-fr4.jpg" crc="11230491" ref="index"/>
+    <file name="édition_1_montfortquemin _web-u2187-r-fr4.jpg" crc="500719123" ref="index"/>
+    <file name="affiches_1_montfortquemin copie-u2188-fr4.jpg" crc="4138970721" ref="index"/>
+    <file name="affiches_1_montfortquemin-u2188-r-fr4.jpg" crc="3787698190" ref="index"/>
+    <file name="eta copie-u4226-fr4.jpg" crc="3795635270" ref="index"/>
+    <file name="eta-u4226-r-fr4.jpg" crc="3892756061" ref="index"/>
+    <file name="amg-u4343-fr4.jpg" crc="4149958136" ref="index"/>
+    <file name="2-u4343-r-fr4.jpg" crc="3847455909" ref="index"/>
+    <file name="ddm-u3989-fr4.jpg" crc="432793101" ref="index"/>
+    <file name="1_1-u3989-r-fr4.jpg" crc="4063420720" ref="index"/>
+    <file name="couv copie-u4213-fr4.jpg" crc="19354178" ref="index"/>
+    <file name="couv-u4213-r-fr4.jpg" crc="32453980" ref="index"/>
+    <file name="play urban -u3945-fr4.jpg" crc="4225084859" ref="index"/>
+    <file name="ambre016 copie-u3945-r-fr4.jpg" crc="182571298" ref="index"/>
     <file name="affiche okbook copie2 copie-u2393-fr4.jpg" crc="4280742502" ref="index"/>
     <file name="affiche okbook copie2-u2393-r-fr4.jpg" crc="225364660" ref="index"/>
-    <file name="verre copie-u5460-fr4.jpg" crc="3844017316" ref="index"/>
-    <file name="verre-u5460-r-fr4.jpg" crc="15220197" ref="index"/>
+    <file name="verre copie-u5460-fr4.jpg" crc="360937495" ref="index"/>
+    <file name="verre-u5460-r-fr4.jpg" crc="502950780" ref="index"/>
     <file name="linventairedelnvention-u4013-fr3.jpg" crc="4016721178" ref="index"/>
     <file name="a7 copie-u4013-r-fr3.jpg" crc="3943391655" ref="index"/>
-    <file name="index-u5073-fr4.jpg" crc="488952705" ref="index"/>
-    <file name="6-u5073-r-fr4.jpg" crc="3792362066" ref="index"/>
+    <file name="index-u5073-fr4.jpg" crc="434088872" ref="index"/>
+    <file name="6-u5073-r-fr4.jpg" crc="4037619119" ref="index"/>
+    <file name="bezalel-u5101-fr5.jpg" crc="3939566331" ref="index"/>
+    <file name="ambre037 copie-u5101-r-fr5.jpg" crc="26743180" ref="index"/>
+    <file name="édition_1_montfortquemin copie_web-u2187-fr5.jpg" crc="4287443245" ref="index"/>
+    <file name="édition_1_montfortquemin _web-u2187-r-fr5.jpg" crc="390794590" ref="index"/>
+    <file name="affiches_1_montfortquemin copie-u2188-fr5.jpg" crc="334176410" ref="index"/>
+    <file name="affiches_1_montfortquemin-u2188-r-fr5.jpg" crc="401617744" ref="index"/>
+    <file name="eta copie-u4226-fr5.jpg" crc="4245149065" ref="index"/>
+    <file name="eta-u4226-r-fr5.jpg" crc="498724046" ref="index"/>
+    <file name="amg-u4343-fr5.jpg" crc="4241016067" ref="index"/>
+    <file name="2-u4343-r-fr5.jpg" crc="422974888" ref="index"/>
+    <file name="ddm-u3989-fr5.jpg" crc="3866217488" ref="index"/>
+    <file name="1_1-u3989-r-fr5.jpg" crc="141226263" ref="index"/>
+    <file name="couv copie-u4213-fr5.jpg" crc="3934783389" ref="index"/>
+    <file name="couv-u4213-r-fr5.jpg" crc="222389902" ref="index"/>
+    <file name="play urban -u3945-fr5.jpg" crc="4040697530" ref="index"/>
+    <file name="ambre016 copie-u3945-r-fr5.jpg" crc="4095576627" ref="index"/>
+    <file name="verre copie-u5460-fr5.jpg" crc="3844017316" ref="index"/>
+    <file name="verre-u5460-r-fr5.jpg" crc="15220197" ref="index"/>
+    <file name="index-u5073-fr5.jpg" crc="488952705" ref="index"/>
+    <file name="6-u5073-r-fr5.jpg" crc="3792362066" ref="index"/>
   </folder>
   <folder name="phone">
     <folder name="css">
@@ -1332,7 +1378,7 @@
     <file name="index.html" crc="194440552" seo="true" mt="1590241325089" redirect="true"/>
     <file name="about.html" crc="4217581834" seo="true" mt="1590152110614" redirect="true"/>
   </folder>
-  <file name="index.html" crc="408958585" seo="true" mt="1592569696732" redirect="true"/>
+  <file name="index.html" crc="3780886945" seo="true" mt="1592819842315" redirect="true"/>
   <file name="play--urban.html" crc="3803853994" seo="true" mt="1590152110453" redirect="true"/>
   <file name="about.html" crc="21666566" seo="true" mt="1591290107991" redirect="true"/>
   <file name="irma.html" crc="3858209599" seo="true" mt="1590152110460" redirect="true"/>
